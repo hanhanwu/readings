@@ -4,6 +4,7 @@
 
 ABOUT CREDIT SCORING MODEL
 
+ * Detailed set of borrower's characteristics and many other issues to be noted: http://www.microfinancegateway.org/sites/default/files/mfg-en-paper-credit-scoring-in-microfinance-guidelines-based-on-experience-with-wwb-affiliates-in-colombia-and-the-dominican-republic-oct-2003.pdf
 
 ***************************************************************
 
