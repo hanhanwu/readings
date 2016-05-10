@@ -21,3 +21,4 @@ COMPUTER BASED PSYCHOLOGICAL ANALYSIS
 
 * Computer based psychological analysis: https://github.com/hanhanwu/readings/blob/master/PNAS-2015-Youyou-1036-40.docx
 * Psychological Questionare for academic use: http://discovermyprofile.com/
+* MyPersonality Project: http://mypersonality.org/wiki/doku.php
