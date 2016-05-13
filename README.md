@@ -10,9 +10,15 @@ ABOUT CREDIT SCORING MODEL
 
 PSYCHOMETRICS
 
+ * Introduction of Psychometrics: http://www.alston.com/files/Publication/dec0a988-57ce-4ffe-ad7a-9c6a41a8422a/Presentation/PublicationAttachment/d5a1990d-a456-4d19-a4be-9f863dfce032/16-614%20FinTech%20Lending%20Update.pdf
  * Examples of psychometrics: http://examples.yourdictionary.com/examples-of-psychometrics.html
  * EFL- The Importance of Stakes for Psychometric Credit Scoring: https://www.eflglobal.com/the-importance-of-stakes-for-psychometric-credit-scoring/
  * Psychometrics used in Peru Financial System: http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=38161685
+ * What to read: http://cogsci.stackexchange.com/questions/10721/how-can-psychometric-or-behavioural-tests-be-used-in-banking-to-evaluate-creditw
+ * CRAN Psychometric Models and Methods: https://cran.r-project.org/web/views/Psychometrics.html
+ * Small and Medium Enterprises (SMEs), the missing middle - https://www.hks.harvard.edu/centers/cid/programs/entrepreneurial-finance-lab-research-initiative/the-missing-middle
+ * EFL Modeling Methology: https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
+ * Enterprising Psychometrics and Poverty Reduction: https://www.hks.harvard.edu/fs/akhwaja/papers/EFLpaper2013.pdf
 
 
 ***************************************************************
