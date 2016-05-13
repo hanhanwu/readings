@@ -17,7 +17,7 @@ PSYCHOMETRICS
  * What to read: http://cogsci.stackexchange.com/questions/10721/how-can-psychometric-or-behavioural-tests-be-used-in-banking-to-evaluate-creditw
  * CRAN Psychometric Models and Methods: https://cran.r-project.org/web/views/Psychometrics.html
  * Small and Medium Enterprises (SMEs), the missing middle - https://www.hks.harvard.edu/centers/cid/programs/entrepreneurial-finance-lab-research-initiative/the-missing-middle
- * EFL Modeling Methology: https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
+ * EFL Modeling Methology (works well on small amount of data, even when the data is cross-country, avoid overfitting, using individual question instead of indexes of block of questions): https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
  * Enterprising Psychometrics and Poverty Reduction: https://www.hks.harvard.edu/fs/akhwaja/papers/EFLpaper2013.pdf
 
 
