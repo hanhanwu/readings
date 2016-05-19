@@ -19,6 +19,7 @@ PSYCHOMETRICS
  * Small and Medium Enterprises (SMEs), the missing middle - https://www.hks.harvard.edu/centers/cid/programs/entrepreneurial-finance-lab-research-initiative/the-missing-middle
  * EFL Modeling Methology (works well on small amount of data, even when the data is cross-country, avoid overfitting, using individual question instead of indexes of block of questions): https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
  * Enterprising Psychometrics and Poverty Reduction: https://www.hks.harvard.edu/fs/akhwaja/papers/EFLpaper2013.pdf
+ * A meta analysis on the relationship between business owners personality traits: https://github.com/hanhanwu/readings/blob/master/Let%20s%20put%20the%20person%20back%20into%20entrepreneurship%20research%20A%20meta%20analysis%20on%20the%20relationship%20between%20business%20owners%20personality%20traits%20business.pdf
 
 
 ***************************************************************
