@@ -29,6 +29,7 @@ COMPUTER BASED PSYCHOLOGICAL ANALYSIS
 * Computer based psychological analysis: https://github.com/hanhanwu/readings/blob/master/PNAS-2015-Youyou-1036-40.docx
 * Psychological Questionare for academic use: http://discovermyprofile.com/
 * MyPersonality Project: http://mypersonality.org/wiki/doku.php
+* Personality and Business: https://github.com/hanhanwu/readings/blob/master/Let%20s%20put%20the%20person%20back%20into%20entrepreneurship%20research%20A%20meta%20analysis%20on%20the%20relationship%20between%20business%20owners%20personality%20traits%20business.pdf
 
 
 ***************************************************************
