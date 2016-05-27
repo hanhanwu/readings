@@ -46,3 +46,4 @@ The term generally refers to (a) resources, and the value of these resources, bo
 Social capital has been used to explain the improved performance of diverse groups, the growth of entrepreneurial firms, superior managerial performance, enhanced supply chain relations, the value derived from strategic alliances, and the evolution of communities.
 * Tradeline: https://blog.smartcredit.com/2011/03/29/what-is-a-trade-line/
 * Discretionary income: is the amount of an individual's income that is left for spending, investing or saving after taxes and personal necessities (such as food, shelter, and clothing) have been paid. Discretionary income includes money spent on luxury items, vacations and non-essential goods and services.
+* Detached Housing: A single-family detached home, also called a single-detached dwelling, single-family residence (SFR) or separate house is a free-standing residential building. It is defined in opposition to a multi-family residential dwelling.
