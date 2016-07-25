@@ -47,3 +47,11 @@ Social capital has been used to explain the improved performance of diverse grou
 * Tradeline: https://blog.smartcredit.com/2011/03/29/what-is-a-trade-line/
 * Discretionary income: is the amount of an individual's income that is left for spending, investing or saving after taxes and personal necessities (such as food, shelter, and clothing) have been paid. Discretionary income includes money spent on luxury items, vacations and non-essential goods and services.
 * Detached Housing: A single-family detached home, also called a single-detached dwelling, single-family residence (SFR) or separate house is a free-standing residential building. It is defined in opposition to a multi-family residential dwelling.
+
+
+****************************************
+
+About the Night Sky
+
+* It was my dream to be an astronomer, when my physics and mathematics ranked top in high school (my chemistry also ranked top, btw). I was deeply in love with observing, calculating and predict the behaviours of those stars far away from us. Then, becuase of our education system, I have been forced to study phsics, chemisry and mathematics in those areas I was not interested in, just in order to enter into a top university... What a pity, I didn't have time to touch what I love for so many years. It's never late to pick up what I love again. Although right now I am busy with more important work, still should give some time to this area! Plus, the study of Zodiac is branch of natural science, haha
+* Start with the mythology of the night sky first, Mythology of Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
