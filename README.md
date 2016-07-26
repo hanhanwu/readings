@@ -51,7 +51,6 @@ Social capital has been used to explain the improved performance of diverse grou
 
 ****************************************
 
-About the Night Sky
+Mythology!
 
-* It was my dream to be an astronomer, when my physics and mathematics ranked top in high school (my chemistry also ranked top, btw). I was deeply in love with observing, calculating and predict the behaviours of those stars far away from us. Then, becuase of our education system, I have been forced to study phsics, chemisry and mathematics in those areas I was not interested in, just in order to enter into a top university... What a pity, I didn't have time to touch what I love for so many years. It's never late to pick up what I love again. Although right now I am busy with more important work, still should give some time to this area! Plus, the study of Zodiac is branch of natural science, haha
-* Start with the mythology of the night sky first, Mythology of Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
+* Mythology of Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
