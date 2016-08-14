@@ -8,6 +8,13 @@ ABOUT CREDIT SCORING MODEL
 
 ***************************************************************
 
+STATISTICS IN MACHINE LEARNING
+
+* Probability in Machine Learning: https://github.com/hanhanwu/readings/blob/master/probability%20in%20machine%20learning.pdf
+
+
+***************************************************************
+
 PSYCHOMETRICS
 
  * Introduction of Psychometrics: http://www.alston.com/files/Publication/dec0a988-57ce-4ffe-ad7a-9c6a41a8422a/Presentation/PublicationAttachment/d5a1990d-a456-4d19-a4be-9f863dfce032/16-614%20FinTech%20Lending%20Update.pdf
