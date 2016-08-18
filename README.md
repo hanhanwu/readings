@@ -41,7 +41,7 @@ COMPUTER BASED PSYCHOLOGICAL ANALYSIS
 
 ***************************************************************
 
-BANKING TERMINOLOGY
+BANKING KNOWLEDGE
 
 * Credit Bureaus  — a company that collects information from various sources and provides consumer credit information on individual consumers for a variety of uses.
 * BNI Score - Bankruptcy Navigator Index (BNI). a number that indicates the likelihood of an individual filing for bankruptcy. It is related to the better-known credit score, but unlike credit scores, bankruptcy risk scores are not sold to consumers by any of the credit bureaus.[1] Consequentially, individuals have little or no way of knowing what their bankruptcy risk scores are or how to improve upon them. Furthermore, since there is no standardized index of measurement, consumers often have trouble contextualizing their score on a standardized scale, instead only receiving general information from a single bureau http://www.creditcards.com/credit-card-news/bankruptcy-risk-score-1270.php
@@ -54,6 +54,7 @@ Social capital has been used to explain the improved performance of diverse grou
 * Tradeline: https://blog.smartcredit.com/2011/03/29/what-is-a-trade-line/
 * Discretionary income: is the amount of an individual's income that is left for spending, investing or saving after taxes and personal necessities (such as food, shelter, and clothing) have been paid. Discretionary income includes money spent on luxury items, vacations and non-essential goods and services.
 * Detached Housing: A single-family detached home, also called a single-detached dwelling, single-family residence (SFR) or separate house is a free-standing residential building. It is defined in opposition to a multi-family residential dwelling.
+* Bank model and Fintech Focus: https://www.linkedin.com/pulse/fintech-ecosystems-banking-business-model-james-shanahan
 
 
 ****************************************
