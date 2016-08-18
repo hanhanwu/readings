@@ -1,6 +1,13 @@
 # readings
 
 
+FREE DATA SCIENCE EBOOK
+
+* Free O'Reilly Data ebooks: http://www.oreilly.com/data/free/
+* Data Science in Fintech and Banking: https://github.com/hanhanwu/readings/blob/master/data-science-banking-and-fintech.pdf
+
+
+***************************************************************
 
 ABOUT CREDIT SCORING MODEL
 
