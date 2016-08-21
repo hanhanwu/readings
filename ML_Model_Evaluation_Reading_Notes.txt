@@ -1,4 +1,9 @@
+
+
 * After model deliver, it's better to build a evaluation metrics for online data to detect distribution drift
+* Training metrics and evaluation metrics can be different in practice, try to avoid this. It is better to train the model to directly optimize for the metric it will be evaluated on.
+* Data Skew: when 1 kind of data is much more smaller than others, such as data imbalance, outliers. Robust metrics may not be affected by outlier, but they will still influence the training model. Careful data cleaning and reformulating the tasks may be needed
+
 
 * Classification Metrics: accuracy, confusion matrix, pre-class accuracy, logloss, AUC/ROC
 * Ranking Metrics: precision, recall, precision-recall curve, NDCG
@@ -24,3 +29,4 @@
 
 — RMSE/RMSD: The square root of the average squared distance between the actual score and predicted score. Since it is an average score, it is sensitive to large outliers
 — MAPE: median absolute percentage, and use it to compute 90th percentile of the absolute percent error
+
