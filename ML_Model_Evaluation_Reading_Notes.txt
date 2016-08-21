@@ -1,7 +1,8 @@
 * After model deliver, it's better to build a evaluation metrics for online data to detect distribution drift
 
-* Evaluation Metrics: accuracy, confusion matrix, pre-class accuracy, logloss, AUC/ROC
+* Classification Metrics: accuracy, confusion matrix, pre-class accuracy, logloss, AUC/ROC
 * Ranking Metrics: precision, recall, precision-recall curve, NDCG
+* Regression Metrics: RMSE/RMSD, MAPE
 
 — confusion matrix - when the consequence of each class can be different
 — pre-class accuracy - when classes can be imbalanced
@@ -20,3 +21,6 @@
 — NDCG (normalized discounted cumulative gain)
 * CG (cumulative gain): sums up the relevance of top k items
 * DCG, NDCG are important in information retrieval where the positioning of the returned items is important
+
+— RMSE/RMSD: The square root of the average squared distance between the actual score and predicted score. Since it is an average score, it is sensitive to large outliers
+— MAPE: median absolute percentage, and use it to compute 90th percentile of the absolute percent error
