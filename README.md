@@ -4,7 +4,7 @@
 FREE DATA SCIENCE EBOOK
 
 * Free O'Reilly Data ebooks: http://www.oreilly.com/data/free/
-* Data Science in Fintech and Banking: https://github.com/hanhanwu/readings/blob/master/data-science-banking-and-fintech.pdf
+* Data Science in Fintech and Banking: https://github.com/hanhanwu/readings/blob/master/data-science-banking-and-fintech_comments.pdf
 * Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
 * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 
