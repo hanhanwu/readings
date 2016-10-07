@@ -72,3 +72,17 @@ Social capital has been used to explain the improved performance of diverse grou
 Mythology!
 
 * Mythology of Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
+
+
+****************************************
+
+Art and Art Stories!
+
+* Living Life Sculpture
+ * Recently I just wantched a speech given by an 80 years old artist and it is quite inspiring. The artist is called Wang Deshun.
+ * He has been famous in world wide pantomime troupe for decades, but he became famous recently in China after he appeared on a fashion show at age 80....: https://www.youtube.com/watch?v=TC0m65hOEow
+ * During the speech, he was talking about his pantomime troupe, the most famous one should be Living Life Sculpture and this is a unique art form: http://v.youku.com/v_show/id_XMjkyOTc3NDMy.html
+ * Based no what he described, in this Living Life Sculpture, they have used 3 female schulpture, and he was acting as a male sculpture to build the stories. The 3 love stories are Adam and Eve (love in paradise), Rodin and Camille Claudel (love on the earth), XXX (I forgot the name...) and France (love in hell). These 3 love stories all share 1 thing in common, they are love tragedies. Based on what he described, love is suffering and it can happen in paradise, on the earth and in the hell.
+ * Although I don't quite understand why the love story between Adam and Eve is a tragedy and tonight I no longer have patience to finish watching the third one, but I like the second one.
+ * I have even checked Camille Claudel's wiki:  https://en.wikipedia.org/wiki/Camille_Claudel
+ * It is a tragedy, I feel terribly sorry for this type of genious woman, be jealoused because of her unusual talents, finally veen the man she loved cinsidered her as his rival (this is so sad). I never understand why men are always so narrow hearted, love can never stop a man from envying his woman but for most of the women, they can be both talented and deeply love the man.... Sometimes, I think, maybe women are born to be better than men, but for some historical reason, people are not willing to admit this...
