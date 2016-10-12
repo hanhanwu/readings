@@ -9,12 +9,22 @@ FREE DATA SCIENCE EBOOK
 * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 * Big Data, Machine Learning with Transactional Data: https://github.com/hanhanwu/readings/blob/master/301_Kallerhoff_Machine_Learning.pdf
 
+***************************************************************
+
+POTENTIAL BC ECONOMIC PERFORMANCE INDICATORS
+
+* Key indicators (NLP needed for data parsing): http://www.bcstats.gov.bc.ca/StatisticsBySubject/KeyIndicators/KeyIndicatorsHighlights.aspx
+* Economic and finance data from Statistic Canada (I could choose BC, CPI/GDP): http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/dsbbcan-eng.htm
+* Indicators of Capacity and Inflation Pressure, with historical data: http://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/
+* Building Permits by Community: https://github.com/hanhanwu/readings/blob/master/Building%20Permits%20by%20Community.pdf
+* Building Permits by Regional District: https://github.com/hanhanwu/readings/blob/master/Building%20Permits%20by%20Regional%20District.pdf
+* Labor Force Statistics: https://github.com/hanhanwu/readings/blob/master/Labour%20Force%20Statistics%2C%20September%202016%2C%20Highlights.pdf
 
 ***************************************************************
 
 ABOUT CREDIT SCORING MODEL
 
- * Detailed set of borrower's characteristics and many other issues to be noted: http://www.microfinancegateway.org/sites/default/files/mfg-en-paper-credit-scoring-in-microfinance-guidelines-based-on-experience-with-wwb-affiliates-in-colombia-and-the-dominican-republic-oct-2003.pdf
+* Detailed set of borrower's characteristics and many other issues to be noted: http://www.microfinancegateway.org/sites/default/files/mfg-en-paper-credit-scoring-in-microfinance-guidelines-based-on-experience-with-wwb-affiliates-in-colombia-and-the-dominican-republic-oct-2003.pdf
 
 ***************************************************************
 
@@ -27,16 +37,16 @@ STATISTICS IN MACHINE LEARNING
 
 PSYCHOMETRICS
 
- * Introduction of Psychometrics: http://www.alston.com/files/Publication/dec0a988-57ce-4ffe-ad7a-9c6a41a8422a/Presentation/PublicationAttachment/d5a1990d-a456-4d19-a4be-9f863dfce032/16-614%20FinTech%20Lending%20Update.pdf
- * Examples of psychometrics: http://examples.yourdictionary.com/examples-of-psychometrics.html
- * EFL- The Importance of Stakes for Psychometric Credit Scoring: https://www.eflglobal.com/the-importance-of-stakes-for-psychometric-credit-scoring/
- * Psychometrics used in Peru Financial System: http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=38161685
- * What to read: http://cogsci.stackexchange.com/questions/10721/how-can-psychometric-or-behavioural-tests-be-used-in-banking-to-evaluate-creditw
- * CRAN Psychometric Models and Methods: https://cran.r-project.org/web/views/Psychometrics.html
- * Small and Medium Enterprises (SMEs), the missing middle - https://www.hks.harvard.edu/centers/cid/programs/entrepreneurial-finance-lab-research-initiative/the-missing-middle
- * EFL Modeling Methology (works well on small amount of data, even when the data is cross-country, avoid overfitting, using individual question instead of indexes of block of questions): https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
- * Enterprising Psychometrics and Poverty Reduction: https://www.hks.harvard.edu/fs/akhwaja/papers/EFLpaper2013.pdf
- * A meta analysis on the relationship between business owners personality traits: https://github.com/hanhanwu/readings/blob/master/Let%20s%20put%20the%20person%20back%20into%20entrepreneurship%20research%20A%20meta%20analysis%20on%20the%20relationship%20between%20business%20owners%20personality%20traits%20business.pdf
+* Introduction of Psychometrics: http://www.alston.com/files/Publication/dec0a988-57ce-4ffe-ad7a-9c6a41a8422a/Presentation/PublicationAttachment/d5a1990d-a456-4d19-a4be-9f863dfce032/16-614%20FinTech%20Lending%20Update.pdf
+* Examples of psychometrics: http://examples.yourdictionary.com/examples-of-psychometrics.html
+* EFL- The Importance of Stakes for Psychometric Credit Scoring: https://www.eflglobal.com/the-importance-of-stakes-for-psychometric-credit-scoring/
+* Psychometrics used in Peru Financial System: http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=38161685
+* What to read: http://cogsci.stackexchange.com/questions/10721/how-can-psychometric-or-behavioural-tests-be-used-in-banking-to-evaluate-creditw
+* CRAN Psychometric Models and Methods: https://cran.r-project.org/web/views/Psychometrics.html
+* Small and Medium Enterprises (SMEs), the missing middle - https://www.hks.harvard.edu/centers/cid/programs/entrepreneurial-finance-lab-research-initiative/the-missing-middle
+* EFL Modeling Methology (works well on small amount of data, even when the data is cross-country, avoid overfitting, using individual question instead of indexes of block of questions): https://www.eflglobal.com/wp-content/uploads/2014/09/EFL-Technical-Note-July-2012_s.pdf
+* Enterprising Psychometrics and Poverty Reduction: https://www.hks.harvard.edu/fs/akhwaja/papers/EFLpaper2013.pdf
+* A meta analysis on the relationship between business owners personality traits: https://github.com/hanhanwu/readings/blob/master/Let%20s%20put%20the%20person%20back%20into%20entrepreneurship%20research%20A%20meta%20analysis%20on%20the%20relationship%20between%20business%20owners%20personality%20traits%20business.pdf
 
 
 ***************************************************************
