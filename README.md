@@ -83,29 +83,3 @@ Mythology!
 
 * Mythology of Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
 
-
-****************************************
-
-Art and Art Stories!
-
-<b>From Living Life Sculpture</b>
-
-* Recently I just wantched a speech given by an 80 years old artist and it is quite inspiring. The artist is called Wang Deshun.
-* He has been famous in world wide pantomime troupe for decades, but he became famous recently in China after he appeared on a fashion show at age 80....: https://www.youtube.com/watch?v=TC0m65hOEow
-* During the speech, he was talking about his pantomime troupe, the most famous one should be Living Life Sculpture and this is a unique art form: http://v.youku.com/v_show/id_XMjkyOTc3NDMy.html
-* Based no what he described, in this Living Life Sculpture, they have used 3 female schulpture, and he was acting as a male sculpture to build the stories. The 3 love stories are Adam and Eve (love in paradise), Rodin and Camille Claudel (love on the earth), XXX (I forgot the name...) and France (love in hell). These 3 love stories all share 1 thing in common, they are love tragedies. Based on what he described, love is suffering and it can happen in paradise, on the earth and in the hell.
-* Although I don't quite understand why the love story between Adam and Eve is a tragedy and tonight I no longer have patience to finish watching the third one, but I like the second one.
-* I have even checked Camille Claudel's wiki:  https://en.wikipedia.org/wiki/Camille_Claudel
-* Based on what I have read about Camille on wiki, I became interested in this woman and therefore I am planning to dive deeper in that piece of history.
-* <b>First, start from why Rodin completely cut the financial support after Camille created The Age of Maturity</b>? Why he was shocked and angered by the sculpture?
- * So I have found the detailed description about this sculpture here: https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/avant-garde-sculpture/a/claudel-the-age-of-maturity
- * Ah, sounds like, she doesn't like the woman who has been with Rodin for a longer time and Rodin was not willing to leave. This woman Rose Beuret. Why it's obvious to see that Rodin love Camille,but was not willing to leave Rose? Because of money? Is Rose a very rich woman? Since in so many Frnech novels, men in the old time always depended on old but very rich women....
- * So, I tried to find Rose Beuret's information. She doesn't have her own wiki like Camille does but appears in Rodin's wiki page. https://en.wikipedia.org/wiki/Auguste_Rodin
- * And I have found a little more about what's happening between Camille and Rose: http://www.rodin-web.org/approach_art/cap09c.htm
- * Now I could somewhat understand why Rodin was heistating between the 2 women. Rose was majorly a caretaker, and they had their children. Although Rodin didn't marry her till the end of her life, it's difficult to cut this relationship. Meanwhile, based on what Rodin wrote to Rose (in wiki), he must felt Rose loved him so much. Compared with Rose, Camille was much younger, share much more common topics with Rodin, talented and maybe able to help his social life, and they had passion of love, she was also his inspiration and great assistant in the studio. It's realy difficult to choose.... Choose Camille, he may face lifelong sense of guilty for abondening Rose. Choose Rose, there is he may not have so much passion of love..... Now, I'm wondering, if Camille did not have tha abortion, and if she could also act as a good caretaker, would Rodin choose her? Because, maybe, for an old man as Rodin, what he really needed was the feeling of family?
- * Now go back to why the The Age of Maturity angered Rodin and made him stopped supporting Camille. This sculpture has 2 versions. Both share the same theme, the young woman wanted to keep the man while the old woman is trying to grab the man away. I think for any normal people, who knows even a little about the affair between Rodin and Camille would think the sculpture was depicting what was happening between Camille, Rodin and Rose....
- * The Age of Maturity version 1: https://www.khanacademy.org/humanities/becoming-modern/avant-garde-france/avant-garde-sculpture/a/claudel-the-age-of-maturity
- * The Age of Maturity version 2: http://www.musee-rodin.fr/en/collections/sculptures/age-maturity-or-destiny-or-path-life-or-fatality
- * Although I cannot tell direct reasons made Rodin angry, I have more and more questions on this sculpture and this piece of history. For example, how come every description is saying the man is pulled by the old and <b>death</b>? and why this sculpture is called "The Age of Maturity"?
- * Since now I have more and more questions, I am going to do more check.
- * Next: I am going to check more about Rodin's artwork first, because one of his masterpiece is called "The Age of Bronze". Would this give me some hits about the name of "The Age of Maturity"?
