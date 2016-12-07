@@ -1,13 +1,15 @@
 # readings
 
 
-FREE DATA SCIENCE EBOOK
+FREE DATA SCIENCE EBOOK/PUBLICATIONS
 
 * Free O'Reilly Data ebooks: http://www.oreilly.com/data/free/
 * Data Science in Fintech and Banking: https://github.com/hanhanwu/readings/blob/master/data-science-banking-and-fintech_comments.pdf
 * Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
 * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 * Big Data, Machine Learning with Transactional Data: https://github.com/hanhanwu/readings/blob/master/301_Kallerhoff_Machine_Learning.pdf
+* Data Science publications to follow: https://www.analyticsvidhya.com/blog/2016/12/medium-com-top-14-handles-publications-to-follow-for-data-science/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+
 
 ***************************************************************
 
