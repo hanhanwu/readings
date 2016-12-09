@@ -32,8 +32,8 @@ ABOUT CREDIT SCORING MODEL
 
 STATISTICS IN MACHINE LEARNING
 
-* Probability in Machine Learning: https://github.com/hanhanwu/readings/blob/master/probability%20in%20machine%20learning.pdf
-* Elements of Statistical Learning: https://github.com/hanhanwu/readings/blob/master/Elements%20of%20Statistical%20Learning.pdf
+* Free Machine Learning ebooks: https://github.com/rasbt/pattern_classification/blob/master/resources/machine_learning_ebooks.md
+* Elements of Statistical Learning: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
 
 
 ***************************************************************
