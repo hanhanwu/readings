@@ -30,10 +30,11 @@ ABOUT CREDIT SCORING MODEL
 
 ***************************************************************
 
-STATISTICS IN MACHINE LEARNING
+DATA MINING/MACHINE LEARNING
 
 * Free Machine Learning ebooks: https://github.com/rasbt/pattern_classification/blob/master/resources/machine_learning_ebooks.md
 * Elements of Statistical Learning: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+* Data Mining Bible: http://romisatriawahono.net/lecture/dm/book/Han%20-%20Data%20Mining%20Concepts%20and%20Techniques%203rd%20Edition%20-%202012.pdf
 
 
 ***************************************************************
