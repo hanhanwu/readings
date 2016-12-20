@@ -22,11 +22,14 @@ POTENTIAL BC ECONOMIC PERFORMANCE INDICATORS
 * Building Permits by Regional District: https://github.com/hanhanwu/readings/blob/master/Building%20Permits%20by%20Regional%20District.pdf
 * Labor Force Statistics: https://github.com/hanhanwu/readings/blob/master/Labour%20Force%20Statistics%2C%20September%202016%2C%20Highlights.pdf
 
+
 ***************************************************************
 
 ABOUT CREDIT SCORING MODEL
 
 * Detailed set of borrower's characteristics and many other issues to be noted: http://www.microfinancegateway.org/sites/default/files/mfg-en-paper-credit-scoring-in-microfinance-guidelines-based-on-experience-with-wwb-affiliates-in-colombia-and-the-dominican-republic-oct-2003.pdf
+* MOGO digital finance: https://github.com/hanhanwu/readings/blob/master/MOGO_digital_finance.pdf
+
 
 ***************************************************************
 
