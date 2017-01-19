@@ -14,3 +14,6 @@ Introduction to HCI
 Evaluation in HCI: Usability Testing
 
 Recently I just found that I can apply what I am learning from usability testing into crow sourcing
+
+* Reading Notes: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Usability%20Test%20Reading%20Notes.pdf
+* Usability test of fruits (think aloud strategy): https://www.youtube.com/watch?v=3Qg80qTfzgU
