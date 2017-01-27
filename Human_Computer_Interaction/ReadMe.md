@@ -18,3 +18,11 @@ Recently I just found that I can apply what I am learning from usability testing
 * Nislsen Utility Test Reading Notes: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Usability%20Test%20Reading%20Notes.pdf
 * Usability Test Handbook: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/UsabilityTest_Handbook.pdf
 * Usability test of fruits (think aloud strategy): https://www.youtube.com/watch?v=3Qg80qTfzgU
+
+
+*****************************************
+
+Design and Prototyping Techniques
+
+ * Nielsen's Prototype Reading Notes: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Nielsen_Prototype_Notes.pdf
+ * Readings about Fidelity: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/fidelity.zip
