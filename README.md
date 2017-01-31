@@ -89,3 +89,10 @@ Social capital has been used to explain the improved performance of diverse grou
 Data Science in Leisure Time
 
 * 10 must watch data science movies (to me, it means to watch the trailers, but it still looks exciting O(∩_∩)O~): https://www.analyticsvidhya.com/blog/2015/11/10-watch-movies-data-science-machine-learning/?utm_content=bufferb5186&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+
+****************************************
+
+MYTHOLOGY
+
+* Mythology of the Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
