@@ -24,5 +24,15 @@ Recently I just found that I can apply what I am learning from usability testing
 
 Design and Prototyping Techniques
 
- * Nielsen's Prototype Reading Notes: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Nielsen_Prototype_Notes.pdf
- * Readings about Fidelity: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/fidelity.zip
+* Nielsen's Prototype Reading Notes: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Nielsen_Prototype_Notes.pdf
+* Readings about Fidelity: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/fidelity.zip
+
+
+*****************************************
+
+Requirements Gathering and Task-Centered Design
+
+* Readings: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/task-centered-design.zip
+* <b>Today, it's my turn to lead the class discussion in the whole 1 hour!</b>
+* My presentation PPT: https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/task_centered_design.pdf
+* For more details about my presentation: https://github.com/hanhanwu/Hanhan_Project_Presentations
