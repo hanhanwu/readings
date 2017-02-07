@@ -36,3 +36,12 @@ Requirements Gathering and Task-Centered Design
 * <b>Today, it's my turn to lead the class discussion in the whole 1 hour!</b>
 * My presentation PPT: https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/task_centered_design.pdf
 * For more details about my presentation: https://github.com/hanhanwu/Hanhan_Project_Presentations
+
+
+*****************************************
+
+Analytical Evaluation in HCI
+
+* https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
+* http://www.colorado.edu/ics/sites/default/files/attached-files/93-07.pdf
+* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.954.3080&rep=rep1&type=pdf
