@@ -45,3 +45,12 @@ Analytical Evaluation in HCI
 * https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
 * http://www.colorado.edu/ics/sites/default/files/attached-files/93-07.pdf
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.954.3080&rep=rep1&type=pdf
+
+
+*****************************************
+
+Final Project Preparation
+
+Writing Emperical Study Articles/Papers
+* Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
+* Writing the Empirical Journal Article - http://dbem.ws/WritingArticle.pdf
