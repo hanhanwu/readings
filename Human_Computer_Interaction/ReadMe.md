@@ -62,6 +62,9 @@ Emperical Study
 * Qualitative Research Methods: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Qualitative_Research.pdf
 * Design based research: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/design_based_research.pdf
 
+Deslgn Thinking
+* Research Through Design as a Method for Interaction Design Research in HCI: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1041&context=hcii
+
 Writing Emperical Study Articles/Papers
 * Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
 * Writing the Empirical Journal Article - http://dbem.ws/WritingArticle.pdf
