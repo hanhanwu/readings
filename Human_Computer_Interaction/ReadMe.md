@@ -51,6 +51,9 @@ Analytical Evaluation in HCI
 
 Final Project Preparation
 
+Emperical Study
+* Qualitative Research Methods: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Qualitative_Research.pdf
+
 Writing Emperical Study Articles/Papers
 * Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
 * Writing the Empirical Journal Article - http://dbem.ws/WritingArticle.pdf
