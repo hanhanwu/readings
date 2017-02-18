@@ -53,6 +53,7 @@ Final Project Preparation
 
 Emperical Study
 * Qualitative Research Methods: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Qualitative_Research.pdf
+* Design based research: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/design_based_research.pdf
 
 Writing Emperical Study Articles/Papers
 * Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
