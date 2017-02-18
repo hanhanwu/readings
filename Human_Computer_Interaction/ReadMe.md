@@ -3,6 +3,13 @@ I am interested in HCI because I want to improve data visualization skills, how 
 
 *****************************************
 
+BLOGS
+
+* Design Thinking: https://designthinking.ideo.com/
+
+
+*****************************************
+
 Introduction to HCI
 
 * https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/MyersStrategicDirections.pdf
