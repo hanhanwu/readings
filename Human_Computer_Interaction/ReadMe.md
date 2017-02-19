@@ -59,16 +59,28 @@ Analytical Evaluation in HCI
 Final Project Preparation
 
 Emperical Study
+* Emperical research wiki (<b>the cycle</b>): https://en.wikipedia.org/wiki/Empirical_research
 * Qualitative Research Methods: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Qualitative_Research.pdf
 * Design based research: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/design_based_research.pdf
 
-Deslgn Thinking
-* Research Through Design as a Method for Interaction Design Research in HCI: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1041&context=hcii
+People Study
+* Grounding communication (<b>grounding references, constrains on grounding</b>): http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf
+* Wiki sumary of grounding communication: https://en.wikipedia.org/wiki/Grounding_in_communication
+* The power of survey design: http://dspace.khazar.org/jspui/bitstream/123456789/2843/1/The%20Power%20of%20Survey%20Design_guide.pdf
+* Computational thinking (<b>the points it listed to teach people think in computational way is inspiring</b>): https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
+* The art of structured thinking: https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/
 
-Design to Help Learning (<b>include new design methods in survey questions</b>)
+Design Thinking
+* Research Through Design as a Method for Interaction Design Research in HCI: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1041&context=hcii
+* App Inventor (<b>it analized user behaviour</b>): https://pdfs.semanticscholar.org/0eca/4a929e6922ae8976af46ff2eed9a2e2622a6.pdf
+
+Design to Help Learning (<b>include new design methods in survey questions, costs of grounding</b>)
 * LemonAid - Crowdsourced Contextual Help (<b>some design thinking in this paper may help, and crowdsourced learning can be an inspiration</b>): http://depts.washington.edu/lemonaid/images/LemonAidCHI2012.pdf
 * Exaluate LemonAid and compare with other forms of help: https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/p217-chilana.pdf
 * CheatSheet - an interactive memory aid for learning: http://graphicsinterface.org/wp-content/uploads/gi2015-31.pdf
+
+Evaluation
+* The evaluation methods used here: https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/AVI%20'98.pdf
 
 Writing Emperical Study Articles/Papers
 * Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
