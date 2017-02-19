@@ -65,6 +65,11 @@ Emperical Study
 Deslgn Thinking
 * Research Through Design as a Method for Interaction Design Research in HCI: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1041&context=hcii
 
+Design to Help Learning (<b>include new design methods in survey questions</b>)
+* LemonAid - Crowdsourced Contextual Help (<b>some design thinking in this paper may help, and crowdsourced learning can be an inspiration</b>): http://depts.washington.edu/lemonaid/images/LemonAidCHI2012.pdf
+* Exaluate LemonAid and compare with other forms of help: https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/p217-chilana.pdf
+* CheatSheet - an interactive memory aid for learning: http://graphicsinterface.org/wp-content/uploads/gi2015-31.pdf
+
 Writing Emperical Study Articles/Papers
 * Write Now - http://www.harold.thimbleby.net/teaching/Writing.pdf
 * Writing the Empirical Journal Article - http://dbem.ws/WritingArticle.pdf
