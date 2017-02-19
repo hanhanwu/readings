@@ -66,7 +66,7 @@ Emperical Study
 People Study
 * Grounding communication (<b>grounding references, constrains on grounding</b>): http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf
 * Wiki sumary of grounding communication: https://en.wikipedia.org/wiki/Grounding_in_communication
-* The power of survey design: http://dspace.khazar.org/jspui/bitstream/123456789/2843/1/The%20Power%20of%20Survey%20Design_guide.pdf
+* The power of survey design (<b>Participants' Psychology, Interviewer DOs and DON’Ts(181), Dealing with Reluctance(187), Data Managemnt</b>): http://dspace.khazar.org/jspui/bitstream/123456789/2843/1/The%20Power%20of%20Survey%20Design_guide.pdf
 * Computational thinking (<b>the points it listed to teach people think in computational way is inspiring</b>): https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf
 * The art of structured thinking: https://www.analyticsvidhya.com/blog/2013/06/art-structured-thinking-analyzing/
 
