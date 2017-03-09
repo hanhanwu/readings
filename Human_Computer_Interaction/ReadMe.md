@@ -56,6 +56,14 @@ Analytical Evaluation in HCI
 
 *****************************************
 
+HCI Experiments
+
+* https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/HCI%20experiments.zip
+* It's a lot to read, but if think carefully, they are inspiring in many experiments when you need to interact with human, such as crowdsourcing
+
+
+*****************************************
+
 Final Project Preparation
 
 Emperical Study
