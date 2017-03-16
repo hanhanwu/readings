@@ -64,6 +64,12 @@ HCI Experiments
 
 *****************************************
 
+HCI Design for Help and Learning
+* https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Design%20for%20Help%20%26%20Learning.zip
+
+
+*****************************************
+
 Final Project Preparation
 
 Emperical Study
