@@ -14,6 +14,8 @@ Introduction to HCI
 
 * https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/MyersStrategicDirections.pdf
 * https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/NielsenUsability.pdf
+* <b>This is a preview video of ACM Chi in 2016, all about HCI and some looks really cool! I especially love the part from Disney!!! </b>https://www.youtube.com/watch?v=dUDHQNuCKWQ
+* This is a great prototype video, and it makes you laugh: https://www.youtube.com/watch?v=tlQ0kxzY9jE
 
 
 *****************************************
