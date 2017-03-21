@@ -65,7 +65,15 @@ HCI Experiments
 *****************************************
 
 HCI Design for Help and Learning
+
 * https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/Design%20for%20Help%20%26%20Learning.zip
+
+
+*****************************************
+
+Intelligent and Adaptive HCI
+
+* https://github.com/hanhanwu/readings/blob/master/Human_Computer_Interaction/intelligent%20and%20adaptive%20HCI.zip
 
 
 *****************************************
