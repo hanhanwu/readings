@@ -42,6 +42,16 @@ DATA MINING/MACHINE LEARNING
 
 ***************************************************************
 
+AI
+
+* Bots
+  * Recently I am seeing more and more about bots, need to know more about them :)
+  * Conversational bots: https://github.com/hanhanwu/readings/blob/master/what-are-conversational-bots.pdf
+    * While I can see opportunities about these bots, the way they train/build the conversational bots is scarying me. They use users' conversation data as sample data, even if they really won't discolse identity, I'm still worrying about my data privacy, because I always believe conversation style can disclose identity, and I dind't approve anyone to play with my private conversation data. Meanwhile, through this whole book, they dind't mention the data privacy issue. It makes me wonder whether these companies really respect conversation privacy.
+
+
+***************************************************************
+
 PSYCHOMETRICS
 
 * Introduction of Psychometrics: http://www.alston.com/files/Publication/dec0a988-57ce-4ffe-ad7a-9c6a41a8422a/Presentation/PublicationAttachment/d5a1990d-a456-4d19-a4be-9f863dfce032/16-614%20FinTech%20Lending%20Update.pdf
