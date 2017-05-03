@@ -37,7 +37,10 @@ DATA MINING/MACHINE LEARNING
 
 * Free Machine Learning ebooks: https://github.com/rasbt/pattern_classification/blob/master/resources/machine_learning_ebooks.md
 * Elements of Statistical Learning: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+  * Reading Notes: https://github.com/hanhanwu/readings/blob/master/ReadingaNotes_Elements_of_Statistical_Learning.md
 * Data Mining Bible: http://romisatriawahono.net/lecture/dm/book/Han%20-%20Data%20Mining%20Concepts%20and%20Techniques%203rd%20Edition%20-%202012.pdf
+* Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
+  * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 
 
 ***************************************************************
