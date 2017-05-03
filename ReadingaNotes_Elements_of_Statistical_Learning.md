@@ -1,0 +1,1 @@
+So, finally I can spend more time to study this book, I have heard that it's a great statistics book for machine learning. Here, I am recodring the notes when I am reading. I am also marking on the book and will post the marked book after finish the whole book :)
