@@ -17,3 +17,14 @@ CHAPTER 14 - UNSUPERVISED LEARNING
   * Reference to the uniform distribution can cause highly frequent item sets with low associations among their constituents to dominate the collection of highest support item sets.
   * Supervised learning approach, coupled with <b>a ruled induction method</b> such as CART or PRIM, can uncover item sets exhibiting high associations among their constituents. For example, PRIM also produces rules precisely of the form, but it is especially designed for finding high-support regions that maximize the average target.
   * While Apriori is axhausive, PRIM is a greedy algorithm (local optimal in each step) and is not guaranteed to give an “optimal” set of rules. However, Apriori algorithm can deal only with dummy variables, may not find the rules can be found through PRIM
+
+* Clustering
+  * Specifying an appropriate dissimilarity measure is far more important in obtaining success with clustering than choice of clustering algorithm.
+  * Measure Dissimilarity
+    * Quantitative variables - squared-error loss (xi − xi′)^2, and absolute error, The former places more emphasis on larger differ- ences than smaller ones. Clustering based on correlation(similarity) is equivalent to that based on squared distance (dissimilarity)
+    * Ordinal variables (ordered contiguous integers) - Error measures for ordinal variables are generally defined by replacing their M original values with (i-0.5)/M, i=1,...,M
+    * Categorical variables - A variable assumes M distinct values, these can be arranged in a symmetric M × M matrix
+  * Clustering Modle Types
+    * Combinatorial algorithms - work directly on the observed data with no direct reference to an underlying probability model
+    * Mixture modeling - supposes that the data is an i.i.d sample from some population described by a <b>probability density function</b>. This density function is characterized by a <b>parameterized model</b> taken to be a mixture of component density functions; each component density describes one of the clusters. This model is then fit to the data by maximum likelihood or corresponding Bayesian approaches
+    * Mode seeking - take a nonparametric perspective, attempt- ing to directly estimate distinct modes of the probability density function. PRIM algorithm is an example of mode seeking
