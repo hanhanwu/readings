@@ -25,6 +25,23 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * Ordinal variables (ordered contiguous integers) - Error measures for ordinal variables are generally defined by replacing their M original values with (i-0.5)/M, i=1,...,M
     * Categorical variables - A variable assumes M distinct values, these can be arranged in a symmetric M × M matrix
   * Clustering Modle Types
-    * Combinatorial algorithms - work directly on the observed data with no direct reference to an underlying probability model
+    * Combinatorial algorithms - work directly on the observed data with no direct reference to an underlying probability model. Each observation is assigned to one and only one cluster. Each individual cluster assignments for each of the N observations to minimize a “loss” function. These algorithms converge to local optima which may be highly suboptimal when compared to the global optimum.
     * Mixture modeling - supposes that the data is an i.i.d sample from some population described by a <b>probability density function</b>. This density function is characterized by a <b>parameterized model</b> taken to be a mixture of component density functions; each component density describes one of the clusters. This model is then fit to the data by maximum likelihood or corresponding Bayesian approaches
+    * Gausinan Mixtures: EM is a “soft” version of K-means clustering, making probabilistic (rather than deterministic) assignments of points to cluster centers. E-step of the EM algorithm assigns “responsibilities” for each data point based in its <b>relative density</b> under each mixture component; M-step recomputes the component density parameters based on the current responsibilities
     * Mode seeking - take a nonparametric perspective, attempt- ing to directly estimate distinct modes of the probability density function. PRIM algorithm is an example of mode seeking
+  * k-means vs hierarchical clustering
+    * K-means or K-medoids clustering algorithms de- pend on the choice for the number of clusters to be searched and a starting configuration assignment. In contrast, hierarchical clustering methods do not require such specifications. Instead, they require the user to specify a measure of dissimilarity between (disjoint) groups of observations, based on the pairwise dissimilarities among the observations in the two groups
+  * Hierarchical Clustering
+    * Agglomerative (bottom-up): the pair chosen for merging consist of the two groups with the smallest intergroup dissimilarity
+    * Divisive (top-down): The split is chosen to produce two new groups with the largest between-group dissimilarity
+    * Both paradigms there are N − 1 levels in the hierarchy
+    * Possess a monotonicity property, the dissimilarity between merged clusters is monotone increasing with the level of the merger, so that the height of each node is proportional to the value of the intergroup dissimilarity between its children
+    * dendrogram - The terminal nodes representing individual observations are all plotted at zero height
+  * Agglomerative Hierarchical Clustering
+    * <b>Single linkage (SL)</b> agglomerative clustering takes the intergroup dissimilarity to be that of the closest (least dissimilar) pair. 
+    * <b>Complete linkage (CL)</b> agglomerative clustering (furthest-neighbor technique) takes the in- tergroup dissimilarity to be that of the furthest (most dissimilar) pair
+    * <b>Group average (GA)</b> clustering uses the average dissimilarity between the groups
+    * If the data dissimilarities {dii′ } exhibit a strong clustering tendency, with each of the clusters being compact and well separated from others, then all three methods produce similar results.
+    * Compact - observations within them are relatively close together (small dissimilarities) as compared with observations in different clusters
+    * SL can violate the “compactness” property that all observations within each cluster tend to be similar to one another. CL represents the opposite extreme, It will tend to produce compact clusters, but can violate the “closeness” property, that is, observations assigned to a cluster can be much closer to members of other clusters than they are to some members of their own cluster. GA represents a compromise between the two extremes of single and complete linkage, however its results depend on the numerical scale on which the observation dissimilarities dii′ are measured
+    
