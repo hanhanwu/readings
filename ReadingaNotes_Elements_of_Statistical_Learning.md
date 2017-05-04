@@ -46,4 +46,21 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * SL can violate the “compactness” property that all observations within each cluster tend to be similar to one another. CL represents the opposite extreme, It will tend to produce compact clusters, but can violate the “closeness” property, that is, observations assigned to a cluster can be much closer to members of other clusters than they are to some members of their own cluster. GA represents a compromise between the two extremes of single and complete linkage, however its results depend on the numerical scale on which the observation dissimilarities dii′ are measured
   * Divisive Hierarchical Clustering
     * The recursive splitting continues until all clusters either become singletons or all members of each one have zero dissimilarity from one another.
+  * Self-organizing Maps (SOM) can be considered as an online version of k-means, which means when you want to do clustering on streaming data, maybe SOM can be used
+  
+* Principle Components
+  * Principal components are a useful tool for <b>dimension reduction</b> and <b>compression</b>
+  * <b>Principal curves</b> generalize the principal component line, providing a smooth one-dimensional curved approximation to a set of data points. f(λ) is the average of all data points that project to it, that is, the points for which it is “responsible.” Each point on the curve is the average of all data points that project there.
+  * <b>Principal surface</b> is more general, providing a curved manifold approximation of dimension 2 or more. 
+  * <b>Principle points</b>: The set of k points that minimize the expected distance from X to its prototype are called the principal points of the distribution.
+  * Principal surfaces have exactly the same form as principal curves, but are of higher dimension.
+
+* Spectral Clustering
+  * Traditional clustering methods like K-means use a spherical or elliptical metric to group data points, so will not work well when the clusters are non-convex. Spectral clustering is a generalization of standard clustering methods, and is designed for these situations. It has close connections with the local multidimensional-scaling techniques.
+  * The idea in spectral clustering is to construct similarity graphs that represent the local neighborhood relationships between observations. Clustering is now rephrased as a graph-partition problem, where we identify connected components with clusters. We wish to partition the graph, such that edges between different groups have low weight, and within a group have high weight.
+  * Choose params:
+    * choose the type of similarity graph, such as fully connected or nearest neighbors
+    * associated parameters, such as nearest of neighbors k or the scale parameter of the kernel c
+    * choose the number of eigenvectors to extract from L
+    * choose the number of clusters
     
