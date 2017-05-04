@@ -44,4 +44,6 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * If the data dissimilarities {dii′ } exhibit a strong clustering tendency, with each of the clusters being compact and well separated from others, then all three methods produce similar results.
     * Compact - observations within them are relatively close together (small dissimilarities) as compared with observations in different clusters
     * SL can violate the “compactness” property that all observations within each cluster tend to be similar to one another. CL represents the opposite extreme, It will tend to produce compact clusters, but can violate the “closeness” property, that is, observations assigned to a cluster can be much closer to members of other clusters than they are to some members of their own cluster. GA represents a compromise between the two extremes of single and complete linkage, however its results depend on the numerical scale on which the observation dissimilarities dii′ are measured
+  * Divisive Hierarchical Clustering
+    * The recursive splitting continues until all clusters either become singletons or all members of each one have zero dissimilarity from one another.
     
