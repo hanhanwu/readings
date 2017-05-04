@@ -63,4 +63,12 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * associated parameters, such as nearest of neighbors k or the scale parameter of the kernel c
     * choose the number of eigenvectors to extract from L
     * choose the number of clusters
-    
+  * Spectral clustering is related to <b>kernel principal components (kernel PCA)</b>, a non-linear version of linear principal components
+    * An <b>eigenvector</b> or characteristic vector of a linear transformation is a non-zero vector whose direction does not change when that linear transformation is applied to it.
+    * Standard linear principal components (PCA) are obtained from the eigenvectors of the covariance matrix, and give directions in which the data have maximal variance. Kernel PCA expand the scope of PCA, mimicking what we would obtain if we were to expand the features by non-linear transformations, and then apply PCA in this transformed feature space.
+    * Kernel PCA is quite sensitive to the scale and nature of the kernel
+    * Nearest-neighbor truncation of the kernel is important for the success of spectral clustering.
+  * Sparse PCA
+    * We often interpret principal components by examining the direction vectors vj, also known as <b>loadings</b>, to see which variables play a role.
+    * Sparse loadings in this chapter, based on lasso (L1) penalties
+    * PCA is applied to <b>shape data</b>, and is a popular tool in morphometrics. The features used for PCA are the sequence of coordinate pairs for each landmark, unpacked into a single vector.Sometimes, the sparse principal components procedure gives a more parsimonious, and potentially more informative picture of the important differences.
