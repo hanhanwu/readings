@@ -72,3 +72,20 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * We often interpret principal components by examining the direction vectors vj, also known as <b>loadings</b>, to see which variables play a role.
     * Sparse loadings in this chapter, based on lasso (L1) penalties
     * PCA is applied to <b>shape data</b>, and is a popular tool in morphometrics. The features used for PCA are the sequence of coordinate pairs for each landmark, unpacked into a single vector.Sometimes, the sparse principal components procedure gives a more parsimonious, and potentially more informative picture of the important differences.
+    
+* Non-negative Matrix Factorization (NMF)
+  * It is a recent alternative approach to PCA, data and components are assumed to be <b>non-negative</b>
+  * The drawback of NMF is, the solution found depends on the starting values, and it would seem to hamper the interpretability of the factorization.
+  * Factor analysis models are typically wed to Gaussian distributions
+  * Factor analysis can be seen to be modeling the <b>correlation structure</b> of the Xj rather than the <b>covariance structure</b>. This can be easily seen by standardizing the covariance structure. This is an important distinction between factor analysis and PCA.
+
+* Independent Component Analysis (ICA)
+  * ICA has emerged as a strong competitor to factor analysis, it relies on the non-Gaussian nature of the underlying sources for its success.
+  * ICA is able to perform blind source separation, by exploiting the independence and non-Gaussianity of the original sources.
+  * ICA applied to multivariate data looks for a sequence of orthogonal projections such that the projected data look as far from Gaussian as possible. With pre-whitened data, this amounts to looking for components that are as independent as possible. ICA starts from essentially a factor analysis solution, and looks for rota- tions that lead to independent components.
+  * Exploratory Projection Pursuit - A graphical exploration technique for visualizing high-dimensional data. Their view was that most low (one- or two-dimensional) projections of high- dimensional data look Gaussian
+  * ICA and exploratory projection pursuit are quite similar, at least in the repre- sentation
+  
+* Nonlinear Dimension Reduction and Local Multidimensional Scaling
+  * Nonlinear Dimension Reduction, can be thought of as “flattening” the manifold, and hence reducing the data to a set of low-dimensional coordinates that represent their relative positions in the manifold. They are useful for problems where signal-to-noise ratio is very high, not as useful for observational data with lower signal-to-noise ratios.
+  * Classical multidimensional scaling may not preserve the ordering of the points along the curve, because it judges points on opposite ends of the curve to be close together. In contrast, local multidimensional scaling may do a good job of preserving the ordering of the points along the curve, it preserves the local affine structure of the high-dimensional data. A lower dimensional representation is constructed that best preserves these local approximations.
