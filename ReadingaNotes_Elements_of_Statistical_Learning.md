@@ -16,7 +16,7 @@ CHAPTER 14 - UNSUPERVISED LEARNING
     * Monte Carlo methods (or Monte Carlo experiments) are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results. Their essential idea is using randomness to solve problems that might be deterministic in principle.
   * Reference to the uniform distribution can cause highly frequent item sets with low associations among their constituents to dominate the collection of highest support item sets.
   * Supervised learning approach, coupled with <b>a ruled induction method</b> such as CART or PRIM, can uncover item sets exhibiting high associations among their constituents. For example, PRIM also produces rules precisely of the form, but it is especially designed for finding high-support regions that maximize the average target.
-  * While Apriori is axhausive, PRIM is a greedy algorithm (local optimal in each step) and is not guaranteed to give an “optimal” set of rules. However, Apriori algorithm can deal only with dummy variables, may not find the rules can be found through PRIM
+  * While Apriori is exhausive, PRIM is a greedy algorithm (local optimal in each step) and is not guaranteed to give an “optimal” set of rules. However, Apriori algorithm can deal only with dummy variables, may not find the rules can be found through PRIM
 
 * Clustering
   * Specifying an appropriate dissimilarity measure is far more important in obtaining success with clustering than choice of clustering algorithm.
