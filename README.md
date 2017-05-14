@@ -39,6 +39,7 @@ DATA MINING/MACHINE LEARNING
 * Elements of Statistical Learning: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
   * Reading Notes: https://github.com/hanhanwu/readings/blob/master/ReadingaNotes_Elements_of_Statistical_Learning.md
 * Data Mining Bible: http://www.kvimis.co.in/sites/kvimis.co.in/files/ebook_attachments/Jiawei%20Han,%20Micheline%20Kamber,%20ian%20Pei%20Data%20Mining%203%20ed.pdf
+  * Reading Notes for Data Mining bible: https://github.com/hanhanwu/readings/blob/master/ReadingNotes_DMBible.md
 * Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
   * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 
