@@ -3,11 +3,10 @@ The bible is the bible, deserve to read and think again and again! This is the r
 
 ************************************************************************
 
-<b>Chapter 6: Mining Frequent Patterns, Associations, and Correlations: Basic Concepts and Methods</b>
+<b>CHAPTER 6: Mining Frequent Patterns, Associations, and Correlations: Basic Concepts and Methods</b>
 
 Finding frequent patterns plays an essential role in mining associations, correlations, and many other interesting relationships among data. Moreover, it helps in data classification, clustering, and other data mining tasks. Thus, frequent pattern mining has become an important data mining task and a focused theme in data mining research.
 
--- BASIC CONCEPTS
 
 * <b>support</b> and <b>confidence</b> are two measures of rule interestingness, thye respectively reflect the <b>usefulness</b> and <b>certainty</b> of discovered rules. For example, a pattern is showing 90% confidence, means high certainty, but only 10% support means it happens rare among all the patterns. <b>Typically, association rules are considered interesting if they satisfy both a minimum support threshold and a minimum confidence threshold.</b>
 * `support(A => B)=P(A U B)`, `confidence(A => B) = P(B|A)`, the probabilities here are calculated among all the trainsactions in the database (D). Support s, where s is the percentage of transactions in D that contain A U B; Confidence c in the transaction set D, where c is the percentage of transactions in D containing A that also contain B.
@@ -78,3 +77,14 @@ Finding frequent patterns plays an essential role in mining associations, correl
     * Imbalance ratio, `IR(A,B) = |sup(A) - sup(B)|/(sup(A) + sup(B) - sup(A U B))`. If the two directional implications between A and B are the same, then IR(A,B) will be zero. Otherwise, the larger the difference between the two, the larger the imbalance ratio.
     * <b>Recommended way do pattern evaluation</b>: IR with Kulc
     
+    
+************************************************************************
+
+<b>CHAPTER 7: Advanced Pattern Mining</b>
+
+* Infrequent/rare patterns: patterns that occur rarely but are of critical impor- tance
+* Negative patterns: patterns that reveal a negative correlation between items
+* The book talks about many types of advanced pattern mining from data mining perspective without talking about using specific algorithms. So Read the books for this chapter.
+* Professor's PPT: http://www.cs.sfu.ca/CourseCentral/741/jpei/
+  * About GSP, PrefixSpan for sequential pattern amining
+  * Implemented algs can be found in SPMF: http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php
