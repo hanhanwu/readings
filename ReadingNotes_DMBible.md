@@ -62,3 +62,19 @@ Finding frequent patterns plays an essential role in mining associations, correl
   * SPMF Algorithms: http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php
   * SPMF examples: http://www.philippe-fournier-viger.com/spmf/index.php?link=documentation.php
   * SPMF algorithm mapping: http://www.philippe-fournier-viger.com/spmf/map_algorithms_spmf_data_mining097.png
+* Pattern Evaluation
+  * Strong rules may not be interesting, especially true for rules with low support or very long rules. Confidence can be deceiving, it does not measure the real strength of the correlation between A, B
+  * correlation measures [support, confidence, correlation]
+  * correlation methods
+    * `lift(A, B) = P(A U B)/P(A)*P(B)`, > 1 means positively correlated; < 1 means negatively correlated; = 1 means independent, no correlation
+    * `𝟀² = ∑((observed - expected)²/expected)`, used for nominal data
+    * all_confidence, `all_conf(A,B) = sup(A U B)/max{sup(A), sup(B)} = min{P(A|B), P(B|A)}`, all_conf(A,B) indicates the min confidence of the 2 association rules related to A and B, namely A => B, B => A
+    * max_confidence, `max_conf(A, B) = max{P(A|B), P(B|A)}`, it indicates the max confience of A => B and B => A
+    * Kulczynski measure (Kulc), `Kulc(A, B) = 0.5*(P(A|B) + P(B|A))`, can be viewed as the average of 2 confidence measures
+    * cosine measure, `cosin(A, B) = P(A U B)/√(P(A)*P(B)) = sup(A U B)/√(sup(A)*sup(B)) = √(P(A|B)*P(B|A))`, it looks similar to lift but has a squre root, therefore, consine measure is only influenced by the support of A, B and A U B, not by the total number of transactions
+    * <b>common properties for all_conf, max_conf, Kulc and consine</b>: value is only influenced by the supports of A, B, and A U B, or more exactly, by the conditional probabilities of P(A|B) and P(B|A), not by the total number of transactions. Each measure ranges from 0 to 1, and the higher the value, the closer the relationship between A and B.
+    * A good interestingness measure should not be affected by transactions that do not contain the itemsets of interest; otherwise, it would generate unstable results, as illustrated in D1 and D2. A <b>null-transaction</b> is a transaction that does not contain any of the item- sets being examined. <b>lift and 𝟀² can perform poorly because they both will be strongly influenced by null-transaction</b>
+    * A measure is <b>null-invariant</b> if its value is free from the influence of null-transactions.
+    * Imbalance ratio, `IR(A,B) = |sup(A) - sup(B)|/(sup(A) + sup(B) - sup(A U B))`. If the two directional implications between A and B are the same, then IR(A,B) will be zero. Otherwise, the larger the difference between the two, the larger the imbalance ratio.
+    * <b>Recommended way do pattern evaluation</b>: IR with Kulc
+    
