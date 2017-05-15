@@ -86,5 +86,7 @@ Finding frequent patterns plays an essential role in mining associations, correl
 * Negative patterns: patterns that reveal a negative correlation between items
 * The book talks about many types of advanced pattern mining from data mining perspective without talking about using specific algorithms. So Read the books for this chapter.
 * Professor's PPT: http://www.cs.sfu.ca/CourseCentral/741/jpei/
-  * About GSP, PrefixSpan for sequential pattern amining
+  * About GSP, PrefixSpan for sequential pattern mining
+    * GSP Major Strength: Candidate pruning by Apriori
+    * PrefixSpan: Projection-based but only prefix-based projection: less projections and quickly shrinking sequences
   * Implemented algs can be found in SPMF: http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php
