@@ -90,3 +90,22 @@ Finding frequent patterns plays an essential role in mining associations, correl
     * GSP Major Strength: Candidate pruning by Apriori
     * PrefixSpan: Projection-based but only prefix-based projection: less projections and quickly shrinking sequences
   * Implemented algs can be found in SPMF: http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php
+
+
+************************************************************************
+
+<b>CHAPTER 2: 2.4 - Measure Data Similarity and Dissimilarity</b>
+
+Data similarity & dissimilarity measure (proximity measure) is used in clustering, nearest-neighbour algorithms and outlier detection. I want to do an review of the part to strengthen my understanding.
+
+* 2 types of data structure
+  * (2 mode matrix) Data Matrix - rows records objects, column record features (attributes)
+  * (1 mode matrix) Dissimilarity matrix - records the dissimilarity between each pair of objects `d(i, j)`. More similar, close to 0, otherwise closer to 1
+  
+* Proximity measure for characterical features
+  * `d(i, j)` represent the dissimilarity between object i and j
+  * `d(i, j) = (p-m)/p`, it is the dissimilarity ratio. `p` means the total number of features of an object, m means matched number of features of object i, j
+  * With calculated d(i,j) for each pair of objects, you fill them in the dissimilarity matrix
+  
+  <b>TO BE CONTINUED....</b>
+  
