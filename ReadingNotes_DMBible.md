@@ -125,6 +125,9 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
     * `d(i,j) = sqrt(power((xi1-xj1),2) + power((xi2-xj2),2) + .... + power((xin-xjn),2))`
   * Manhattan Distance
     * `d(i,j) = abs(xi1-xj1) + abs(xi2-xj2) + .... + abs(xin-xjn)`
+  * Minkowski distance, a generation of Euclidean and Manhattan distance
+    * `d(i,j) = (power(abs(xi1-xj1), h) + power(abs(xi2-xj2), h) + .... + power(abs(xin-xjn), h))//h`, I'm using python calculation methods here
+  * Supremum Distance/Chebyshev distance is the generation of Minkowski distance for h get close to infinity
   
   <b>weekdays are too busy, TO BE CONTINUED....</b>
   
