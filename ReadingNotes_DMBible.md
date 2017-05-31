@@ -107,5 +107,24 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
   * `d(i, j) = (p-m)/p`, it is the dissimilarity ratio. `p` means the total number of features of an object, m means matched number of features of object i, j
   * With calculated d(i,j) for each pair of objects, you fill them in the dissimilarity matrix
   
-  <b>TO BE CONTINUED....</b>
+* Proximity measure for binary features
+  * First of all, imagine for 2 objects, you have a confusion matrix, with 1, 0 as rows and 1, 0 as columns
+  * Then count the number of features that satisfy that belongs to (1,1), (1,0), (0,1) and (0,0)
+  * Let's call the number of (1,1) as q, r for (1,0), t for (0,0), s for (0,1)
+  * symmetric binary dissimilarity
+    * `d(i,j) = (r+s)/(q+r+s+t)`
+  * asymmetric binary dissimilarity
+    * when you only care about 1 or 0, you can use this
+    * For example if you only care about 1, `d(i,j) = (r+s)/(q+r+s)`
+    * The famous `Jaccard Coefficient` is similarity measure, `1-d(i,j) = q/(q+r+s)`
+    
+* Proximity measure for numerical features
+  * <b>calculate distance</b>
+  * In some cases, you have to <b>normalize</b> the data before distance calculation, to give all features the same weight
+  * Euclidean Distance
+    * `d(i,j) = sqrt(power((xi1-xj1),2) + power((xi2-xj2),2) + .... + power((xin-xjn),2))`
+  * Manhattan Distance
+    * `d(i,j) = abs(xi1-xj1) + abs(xi2-xj2) + .... + abs(xin-xjn)`
+  
+  <b>weekdays are too busy, TO BE CONTINUED....</b>
   
