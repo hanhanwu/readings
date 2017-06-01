@@ -129,5 +129,12 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
     * `d(i,j) = (power(abs(xi1-xj1), h) + power(abs(xi2-xj2), h) + .... + power(abs(xin-xjn), h))//h`, I'm using python calculation methods here
   * Supremum Distance/Chebyshev distance is the generation of Minkowski distance for h get close to infinity
   
+* Proximity measure for ordinal features
+  * Ordinal data has its own ranking, such as (small, mid, large)
+  * Steps to do proximity measure for ordinal data:
+    * Assume there are m ordinal features, each feature has n objects.
+    * Let's focus on the fth feature first. <b>Normalize its value into [0,1] range.</b> For example, this feature has value "small", "mid" and "large", and we consider these values as 1,2,3 respectively. min=1, max=3. For object i, its value is "mid", so the normalized value will be `(2-1)/(3-1) = 0.5`. In a word, the normalization formula is `Xif = (v-min)/(max-min)`, here v is the numerical value for object i
+    * After normalization, we can calculate `d(i,j)` using the above numerical distance calculation methods such as Euclidean, Manhattan. For example we use Manhattan, for object i, j that each has m features, we have `d(i,j) = abs(Xi1-Xj1) + abs(Xi2-Xj2) + .... + abs(Xim-Xjm)`
+  
   <b>weekdays are too busy, TO BE CONTINUED....</b>
   
