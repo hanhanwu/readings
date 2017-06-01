@@ -1,5 +1,7 @@
 The bible is the bible, deserve to read and think again and again! This is the reading notes for my favorite data mining book, written by the father of Data Mining. The book includes not only detailed description & easy-to-understand examples for machine learning algorithms (it even talks about how to improve algorithm efficiency, how to find interesting results for practical use), machine learning methods & pseudo code & Evaluation, but also contains great summary of data warehousing, as well as general summary of data preprocessing methods.
 
+You can download the book here: http://www.kvimis.co.in/sites/kvimis.co.in/files/ebook_attachments/Jiawei%20Han,%20Micheline%20Kamber,%20ian%20Pei%20Data%20Mining%203%20ed.pdf
+
 
 ************************************************************************
 
@@ -135,6 +137,13 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
     * Assume there are m ordinal features, each feature has n objects.
     * Let's focus on the fth feature first. <b>Normalize its value into [0,1] range.</b> For example, this feature has value "small", "mid" and "large", and we consider these values as 1,2,3 respectively. min=1, max=3. For object i, its value is "mid", so the normalized value will be `(2-1)/(3-1) = 0.5`. In a word, the normalization formula is `Xif = (v-min)/(max-min)`, here v is the numerical value for object i
     * After normalization, we can calculate `d(i,j)` using the above numerical distance calculation methods such as Euclidean, Manhattan. For example we use Manhattan, for object i, j that each has m features, we have `d(i,j) = abs(Xi1-Xj1) + abs(Xi2-Xj2) + .... + abs(Xim-Xjm)`
+    
+* Proximity measure for mixed-type features
+  * scale them all into [0,1] range first, them measure the proximity
+  
+* Cosin Similarity
+  * Data such as text data can be sparse
+  * When there are many 0, traditional measure does not work well since 0 does not really mean match. Therefore we need a method that focuses on non-zero data match and the frequency of them
   
   <b>weekdays are too busy, TO BE CONTINUED....</b>
   
