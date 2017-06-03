@@ -141,9 +141,21 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
 * Proximity measure for mixed-type features
   * scale them all into [0,1] range first, them measure the proximity
   
-* Cosin Similarity
+* Cosine Similarity
   * Data such as text data can be sparse
   * When there are many 0, traditional measure does not work well since 0 does not really mean match. Therefore we need a method that focuses on non-zero data match and the frequency of them
+  * cosine similarity, `sim(x,y) = x*y/(||x||*||y||)`
+  * x, y are 2 objects, each has p features. x = (x1, x2, ... xp); y = (y1, y2, ... yp)
+  * `||x|| = sqrt(power(x1, 2) + power(x2, 2) + .... + power(xp, 2))`, ||x|| is the euclidean norm of vector x
+  * When this cosine value is 0, means 2 vectors are 90 degrees to each other, they have no match; when it's 1 means they are identical. In a word, <b>the smaller angle, the more they match</b>
+  * We can also write `sim(x,y) = x*y/(x*x + y*y - x*y)`, this is called <b>Tanimoto Coefficient or Tanimoto Distance</b>
+  * If all the features are binary variables, sim(x,y) can be interpreted as shared features
   
-  <b>weekdays are too busy, TO BE CONTINUED....</b>
+* Nonmetric Measure vs Metric Measure
+  * Both Euclidean and Manhattan distance share these properties, and they are <b>metric measure</b>
+    * Non-negativity: distance >= 0
+    * Identity of indiscernibles: d(i,i) = 0, the distance between same object is 0
+    * Symmetry: d(i,j) = d(j,i)
+    * Triangle Inequality: d(i,j) <= d(i,k) + d(k,j)
+  * Cosine Similarity does not obey these properties, so it is <b>nonmetric measure</b>
   
