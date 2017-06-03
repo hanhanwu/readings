@@ -159,3 +159,35 @@ Data similarity & dissimilarity measure (proximity measure) is used in clusterin
     * Triangle Inequality: d(i,j) <= d(i,k) + d(k,j)
   * Cosine Similarity does not obey these properties, so it is <b>nonmetric measure</b>
   
+
+************************************************************************
+
+<b>CHAPTER 11 - 11.2 Clustering High Dimensional Data</b>
+
+Traditional clustering models which depends on distance calculation can work well when there are lower amount of features (<= 10 features). However, they will become less reliable when there are large amount of features, since the noise can significantly influence the distance calculation and make the result lose meaning. Personally, I often choose different methods in data preprocessing to reduce dimension, reduce noise and so on. However, many dimensional reduction, feature selection methods work better for classification, now when it comes to clustering, they cannot work. Here, I'm trying to understand how people deal with hign dimensional clustering problems.
+
+* 2 major methods
+  * subspace clustering - find clusters in subspace (subset of attributes) of the full space
+  * dimnesional reduction - convert to lower dimensions, then find clusters there
+  
+* How to find subspace clusters
+  * 3 major methods
+    * subspace search
+    * correlation-based clustering
+    * biclustering
+  * Subsapce Search
+    * Search subspaces for clusters, based on similarity measures such as distance or density
+    * Bottm-up methods: such as CLIQUE
+    * Top-down methods: such as PROCLUS
+  * Correlation-based clustering
+    * Compared with subspace search, correlation-based methods can further discover clusters that defined by advanced correlation models
+    * Such as PCA based clustering
+  * Biclustering
+    * Cluster both objects and features
+    * Only a subset of objects will participate a cluster; an object can be in multiple or none cluster
+    * Only a subset of attributes will participate a cluster; an attribute can be in multiple or none cluster
+    * In practice, random noise can affect the readings of eij and thus prevent a bicluster in nature from appearing in a perfect shape.
+    * Such as, MaPle algorithm. It enumerates all biclusters and can guarantee the completeness of the results and do not miss any overlapping biclusters. However, such type of enumeration algorithms can also be time consuming.
+    
+* Dimension reduction clustering
+  * Such as spectral clustering
