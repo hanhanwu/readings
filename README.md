@@ -42,6 +42,9 @@ DATA MINING/MACHINE LEARNING
   * Reading Notes for Data Mining bible: https://github.com/hanhanwu/readings/blob/master/ReadingNotes_DMBible.md
 * Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
   * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
+* Outliers Detection for Temporary Data
+  * Book: https://www.amazon.com/Detection-Temporal-Synthesis-Knowledge-Discovery/dp/1627053751
+  * Reading Notes: https://github.com/hanhanwu/readings/blob/master/ReadingNotes_Temporal_Outlier_Detection.md
 
 
 ***************************************************************
