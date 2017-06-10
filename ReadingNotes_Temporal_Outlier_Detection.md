@@ -47,6 +47,7 @@ Outliers in TIME SERIES DATABASE
 4. Outlier Points Across Multiple Time Series
 * <b>Given</b>: All database of time series D
 * <b>Find</b>: An outlier point across a set of time series
+* Find correlations among multiple time series, and later find <b>when and which</b> a time series break the correlation 
 
 <b>Many other work need to do, TO BE CONTINUED.....</b>
 
