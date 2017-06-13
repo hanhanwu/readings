@@ -61,9 +61,23 @@ DATA MINING/MACHINE LEARNING
 
 -- Wiki
 * Processing Mining: https://en.wikipedia.org/wiki/Process_mining
-* Alpha Algorithm: https://en.wikipedia.org/wiki/Alpha_algorithm
+* The whole lecture about <b>Process Mining</b>: https://www.coursera.org/learn/process-mining/home/welcome
+* <b>Alpha Algorithm</b>: https://en.wikipedia.org/wiki/Alpha_algorithm
   * It does so by examining <b>causal relationships</b> observed between tasks. For example, one specific task might always precede another specific task in every execution trace, which would be useful information.
   * A lecture about alpha Algorithm: https://www.coursera.org/learn/process-mining/lecture/OlVtr/2-6-alpha-algorithm-a-process-discovery-algorithm
+    * It only cares about <b>sequence of activities</b>
+    * It discovers loops, concurrency and choices (key ingredients of process discovery)
+    * Direct Succession: x>y iff for some case x directly followed by y
+    * Casuality: x->y iff x>y and not y>x
+    * Parallel: x||y iff x>y and y>x, means x sometimes followed by y, y sometimes follwoed by x
+    * Choice: x#y iff not x>y and not y>x, means there is no case that one of them directly followed by the other
+  * Patterns that Alpha Alg looks for:
+    * Sequence Pattern: a->b
+    * XOR-split pattern: a->b, a->c and b#c
+    * XOR-join pattern: b->d, c->d and b#c
+    * AND-split pattern: a->b, a->c, and b||c
+    * AND-join pattern: b->d, c->d and b||c
+  * Core Logic - By checking these patterns in a sequence, it generates footprint for each sequence, form a footprint matrix for events. Find such sets A, B, each element a in A should be followed by each element in B. This is what Alpha alg looks fofr based on the generated footprint. Meanwhile, (A,B) should be maximal to make the alg efficient, since the subsets of A, B should also satisfy.
 
 
 ***************************************************************
