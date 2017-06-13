@@ -48,6 +48,15 @@ DATA MINING/MACHINE LEARNING
 * Outliers Detection for Temporary Data
   * Book: https://www.amazon.com/Detection-Temporal-Synthesis-Knowledge-Discovery/dp/1627053751
   * Reading Notes: https://github.com/hanhanwu/readings/blob/master/ReadingNotes_Temporal_Outlier_Detection.md
+  
+  
+-- PAPERS
+* Fuzzy Histogram
+  * Fuzzy Histogram vs Crisp Histogram: https://github.com/hanhanwu/readings/blob/master/fuzzy_histogram.pdf
+    * According to this paper, fuzzy histogram can be both computational and statistically efficient, compared with crisp histogram.
+  * Fuzzy Histogram and Density Estimation
+    * Paper: https://www.lirmm.fr/~strauss/Publications/SMPS06.pdf
+    * According to this paper, fuzzy histogram can deal with the discontinuous weakness of histogram density estimator, reducing the effect of arbitrariness of partitioning
 
 
 ***************************************************************
