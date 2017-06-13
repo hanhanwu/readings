@@ -59,6 +59,13 @@ DATA MINING/MACHINE LEARNING
     * According to this paper, fuzzy histogram can deal with the discontinuous weakness of histogram density estimator, reducing the effect of arbitrariness of partitioning
 
 
+-- Wiki
+* Processing Mining: https://en.wikipedia.org/wiki/Process_mining
+* Alpha Algorithm: https://en.wikipedia.org/wiki/Alpha_algorithm
+  * It does so by examining <b>causal relationships</b> observed between tasks. For example, one specific task might always precede another specific task in every execution trace, which would be useful information.
+  * A lecture about alpha Algorithm: https://www.coursera.org/learn/process-mining/lecture/OlVtr/2-6-alpha-algorithm-a-process-discovery-algorithm
+
+
 ***************************************************************
 
 AI
