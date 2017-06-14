@@ -62,6 +62,8 @@ DATA MINING/MACHINE LEARNING
 -- Wiki
 * Processing Mining: https://en.wikipedia.org/wiki/Process_mining
 * The whole lecture about <b>Process Mining</b>: https://www.coursera.org/learn/process-mining/home/welcome
+* The book, Process Mining: Data Science in Action: http://www.springer.com/gp/book/9783662498507
+  * It seems that Process Mining is to use machine learning, data mining methods to manage process, you can think about it as ERP + Data Science.... (I'm trying to think whether this book will help my work than others)
 * <b>Alpha Algorithm</b>: https://en.wikipedia.org/wiki/Alpha_algorithm
   * It does so by examining <b>causal relationships</b> observed between tasks. For example, one specific task might always precede another specific task in every execution trace, which would be useful information.
   * A lecture about alpha Algorithm: https://www.coursera.org/learn/process-mining/lecture/OlVtr/2-6-alpha-algorithm-a-process-discovery-algorithm
