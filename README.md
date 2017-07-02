@@ -61,6 +61,12 @@ DATA MINING/MACHINE LEARNING
 * Tensorflow
  * 2015 paper: https://github.com/hanhanwu/readings/blob/master/whitepaper2015.pdf
    * No wonder this paper has so many authors
+   
+* Sequence to Sequence
+  * LSTMs on sequence to sequence: https://github.com/hanhanwu/readings/blob/master/sequence-to-sequence-learning-with-neural-networks.pdf
+    * They reversed the sequence, and therefore reduced the minimal time lag, frinally got surprused good results
+    * The training data is huge and time couming (10 days training in their experiments)
+    * language sequence here
 
 
 -- Wiki
