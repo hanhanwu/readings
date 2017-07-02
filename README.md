@@ -59,8 +59,8 @@ DATA MINING/MACHINE LEARNING
     * According to this paper, fuzzy histogram can deal with the discontinuous weakness of histogram density estimator, reducing the effect of arbitrariness of partitioning
 
 * Tensorflow
- * 2015 paper: https://github.com/hanhanwu/readings/blob/master/whitepaper2015.pdf
-   * No wonder this paper has so many authors
+  * 2015 paper: https://github.com/hanhanwu/readings/blob/master/whitepaper2015.pdf
+    * No wonder this paper has so many authors
    
 * Sequence to Sequence
   * LSTMs on sequence to sequence: https://github.com/hanhanwu/readings/blob/master/sequence-to-sequence-learning-with-neural-networks.pdf
