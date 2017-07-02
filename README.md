@@ -58,6 +58,10 @@ DATA MINING/MACHINE LEARNING
     * Paper: https://www.lirmm.fr/~strauss/Publications/SMPS06.pdf
     * According to this paper, fuzzy histogram can deal with the discontinuous weakness of histogram density estimator, reducing the effect of arbitrariness of partitioning
 
+* Tensorflow
+ * 2015 paper: https://github.com/hanhanwu/readings/blob/master/whitepaper2015.pdf
+   * No wonder this paper has so many authors
+
 
 -- Wiki
 * Processing Mining: https://en.wikipedia.org/wiki/Process_mining
