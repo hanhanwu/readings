@@ -96,3 +96,4 @@ CHAPTER 14 - UNSUPERVISED LEARNING
 CHAPTER 7 - Cross Validation
 
 * Assume you are using k-fold cross validation, and your feature selection methods are <b>based on the correlation between feature and the label</b>, then when you are using cross validation, for each iteration, the kth fold must be “left out” before any selection or filtering steps are applied, unless an operation does not include label. This is because the correlation between each feature and the label build on whole dataset does not represent the correlation in each fold, and therefore could significantly increase the error
+  * Better to use Boruta for feature selection, it shuffles the features in order to remove the correlations between features and the label
