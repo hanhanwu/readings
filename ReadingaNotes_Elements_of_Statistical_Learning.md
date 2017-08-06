@@ -89,3 +89,10 @@ CHAPTER 14 - UNSUPERVISED LEARNING
 * Nonlinear Dimension Reduction and Local Multidimensional Scaling
   * Nonlinear Dimension Reduction, can be thought of as “flattening” the manifold, and hence reducing the data to a set of low-dimensional coordinates that represent their relative positions in the manifold. They are useful for problems where signal-to-noise ratio is very high, not as useful for observational data with lower signal-to-noise ratios.
   * Classical multidimensional scaling may not preserve the ordering of the points along the curve, because it judges points on opposite ends of the curve to be close together. In contrast, local multidimensional scaling may do a good job of preserving the ordering of the points along the curve, it preserves the local affine structure of the high-dimensional data. A lower dimensional representation is constructed that best preserves these local approximations.
+  
+
+*************************************************************************
+
+CHAPTER 7 - Cross Validation
+
+* Assume you are using k-fold cross validation, and your feature selection methods are <b>based on the correlation between feature and the label</b>, then when you are using cross validation, for each iteration, the kth fold must be “left out” before any selection or filtering steps are applied, unless an operation does not include label. This is because the correlation between each feature and the label build on whole dataset does not represent the correlation in each fold, and therefore could significantly increase the error
