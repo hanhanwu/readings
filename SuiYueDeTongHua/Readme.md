@@ -7,6 +7,7 @@
 * [Hanhan's Modern Art Masterpiece! - Solution][6]
 * [The Power of Review, The Passion of Learning!][7]
 * [Hanhan's Modern Art Masterpiece! - Oh! I clicked the wrong button!][8]
+* [The Honest Truth about Dishonesty - Do you wear fake products?][9]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -17,3 +18,4 @@
 [6]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/solution.pdf
 [7]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/The_Power_of_Review.pdf
 [8]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/clicked_the_wrong_button.pdf
+[9]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/do_you_wear_fake_products.pdf
