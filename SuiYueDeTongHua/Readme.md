@@ -9,6 +9,7 @@
 * [Hanhan's Modern Art Masterpiece! - Oh! I clicked the wrong button!][8]
 * [The Honest Truth about Dishonesty - Do you wear fake products?][9]
 * [Employee of the Week][10]
+* [The Book Made Me Think - About Honesty In Business World][11]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -21,3 +22,4 @@
 [8]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/clicked_the_wrong_button.pdf
 [9]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/do_you_wear_fake_products.pdf
 [10]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/Employee_of_the_Week.pdf
+[11]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/honesty_in_buz_world.pdf
