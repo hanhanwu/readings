@@ -67,7 +67,7 @@ DATA MINING/MACHINE LEARNING
     * They reversed the sequence, and therefore reduced the minimal time lag, frinally got surprused good results
     * The training data is huge and time couming (10 days training in their experiments)
     * language sequence here
-
+    
 
 -- Wiki
 * Processing Mining: https://en.wikipedia.org/wiki/Process_mining
@@ -111,6 +111,9 @@ AI
   * Recently I am seeing more and more about bots, need to know more about them :)
   * Conversational bots: https://github.com/hanhanwu/readings/blob/master/what-are-conversational-bots.pdf
     * While I can see opportunities about these bots, the way they train/build the conversational bots is scarying me. They use users' conversation data as sample data, even if they really won't discolse identity, I'm still worrying about my data privacy, because I always believe conversation style can disclose identity, and I dind't approve anyone to play with my private conversation data. Meanwhile, through this whole book, they dind't mention the data privacy issue. It makes me wonder whether these companies really respect conversation privacy.
+    
+* Practical Recommendations for Gradient-Based Training
+  * https://github.com/hanhanwu/readings/blob/master/Practical%20Recommendations%20for%20Gradient-Based%20Training.pdf
 
 
 ***************************************************************
