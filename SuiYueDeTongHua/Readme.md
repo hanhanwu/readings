@@ -11,6 +11,7 @@
 * [Employee of the Week][10]
 * [The Book Made Me Think - About Honesty In Business World][11]
 * [Cooking Angel - Tofu Pot][12]
+* [Visit Monet, Old Book Store, Happiness][13]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -25,3 +26,4 @@
 [10]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/Employee_of_the_Week.pdf
 [11]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/honesty_in_buz_world.pdf
 [12]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/Cooking_Angel_Tofu_Pot.pdf
+[13]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/monet_oldbookstore.pdf
