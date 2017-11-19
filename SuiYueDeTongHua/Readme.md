@@ -14,6 +14,7 @@
 * [Visit Monet, Old Book Store, Happiness][13]
 * [The Color of Autumn][14]
 * [Hanhan's Modern Art Masterpiece - Busy][15]
+* [游子吟][16]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -31,3 +32,4 @@
 [13]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/monet_oldbookstore.pdf
 [14]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/autumn_color.pdf
 [15]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/busy.pdf
+[16]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/youziyin.pdf
