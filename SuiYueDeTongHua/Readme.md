@@ -15,6 +15,7 @@
 * [The Color of Autumn][14]
 * [Hanhan's Modern Art Masterpiece - Busy][15]
 * [游子吟][16]
+* [Happy Thanksgiving!][17]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -33,3 +34,4 @@
 [14]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/autumn_color.pdf
 [15]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/busy.pdf
 [16]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/youziyin.pdf
+[17]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happy_thanksgiving.pdf
