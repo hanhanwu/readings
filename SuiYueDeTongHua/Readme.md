@@ -16,6 +16,7 @@
 * [Hanhan's Modern Art Masterpiece - Busy][15]
 * [游子吟][16]
 * [Happy Thanksgiving!][17]
+* [Happiness(TM)][18]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -35,3 +36,4 @@
 [15]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/busy.pdf
 [16]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/youziyin.pdf
 [17]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happy_thanksgiving.pdf
+[18]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happiness.pdf
