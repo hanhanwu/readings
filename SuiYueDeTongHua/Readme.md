@@ -18,6 +18,7 @@
 * [Happy Thanksgiving!][17]
 * [Happiness(TM)][18]
 * [hahaha, When Hamlet Met Buddhism][19]
+* [The Taste of Family][20]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -39,3 +40,4 @@
 [17]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happy_thanksgiving.pdf
 [18]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happiness.pdf
 [19]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/When%20Hamlet%20Met%20Buddhism.pdf
+[20]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/taste_of_family.pdf
