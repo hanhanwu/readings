@@ -19,6 +19,7 @@
 * [Happiness(TM)][18]
 * [hahaha, When Hamlet Met Buddhism][19]
 * [The Taste of Family][20]
+* [Life Made a Joke? Technology Made a Bug?][21]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -41,3 +42,4 @@
 [18]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/happiness.pdf
 [19]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/When%20Hamlet%20Met%20Buddhism.pdf
 [20]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/taste_of_family.pdf
+[21]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/A_joke_A_bug.pdf
