@@ -172,3 +172,10 @@ Data Science in Leisure Time
 MYTHOLOGY
 
 * Mythology of the Night Sky: https://github.com/hanhanwu/readings/blob/master/Mythology%20of%20Night%20Sky.pdf
+
+****************************************
+
+MARKETING & ECONOMY
+
+* Research Checklist: https://github.com/hanhanwu/readings/blob/master/Ebook%20-%20The%20beginners%20guide%20to%20investing%20in%20ICOs.pdf
+  * I think all types of marketing research should practice the checklists here
