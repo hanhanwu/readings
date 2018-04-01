@@ -23,6 +23,7 @@
 * [2017 Last 4:10 pm - I uploaded at 4:10!][22]
 * [Peace][23]
 * [2018 Easter][24]
+* [Hanhan's Modern Art Masterpiece! - Guns, AI & Future][25]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -49,3 +50,4 @@
 [22]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2017_410pm.pdf
 [23]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/peace.pdf
 [24]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018%20Easter.png
+[25]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guns_AI_future.pdf
