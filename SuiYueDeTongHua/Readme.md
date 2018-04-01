@@ -22,6 +22,7 @@
 * [Life Made a Joke? Technology Made a Bug?][21]
 * [2017 Last 4:10 pm - I uploaded at 4:10!][22]
 * [Peace][23]
+* [2018 Easter][24]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -47,3 +48,4 @@
 [21]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/A_joke_A_bug.pdf
 [22]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2017_410pm.pdf
 [23]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/peace.pdf
+[24]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018%20Easter.png
