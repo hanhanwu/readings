@@ -26,6 +26,7 @@
   * [The Whole Story - Singing in Deep Cove][26]
 * [Hanhan's Modern Art Masterpiece! - Guns, AI & Future][25]
 * [Everywhere][27]
+* [The Tear From The Ocean][28]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -55,3 +56,4 @@
 [25]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guns_AI_future.pdf
 [26]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018_easter_whole_story.pdf
 [27]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/everywhere.pdf
+[28]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/tear_from_ocean.pdf
