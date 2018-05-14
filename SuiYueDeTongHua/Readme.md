@@ -27,6 +27,7 @@
 * [Hanhan's Modern Art Masterpiece! - Guns, AI & Future][25]
 * [Everywhere][27]
 * [Messages Never Sent Out - The Scream][28]
+* [Under The Sun][29]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -57,3 +58,4 @@
 [26]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018_easter_whole_story.pdf
 [27]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/everywhere.pdf
 [28]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/the_scream.pdf
+[29]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/under_the_sun.pdf
