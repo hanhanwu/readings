@@ -29,6 +29,7 @@
 * [Messages Never Sent Out - The Scream][28]
 * [Under The Sun][29]
 * [Sunday, Friends, Parking Lot...][30]
+* [too much form the screen][31]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -61,3 +62,4 @@
 [28]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/the_scream.pdf
 [29]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/under_the_sun.pdf
 [30]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/what_a_week.pdf
+[31]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/too_much_from_the_screen.pdf
