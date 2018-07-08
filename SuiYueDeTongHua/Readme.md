@@ -34,7 +34,6 @@
 * [Can't Believe It][33]
 * [London][34]
 * [Give Me 2 More Years][35]
-* [Aunt Yin is Visiting...][36]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -72,4 +71,3 @@
 [33]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/can't_believe_it.pdf
 [34]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018London.png
 [35]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/give_me_2_years.pdf
-[36]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/Aunt_Yin_visiting.pdf
