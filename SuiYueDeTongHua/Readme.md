@@ -33,6 +33,7 @@
 * [London & Iceland, What's the Difference][32]
 * [Can't Believe It][33]
 * [London][34]
+* [Nothing Can Be Worse Than Today][35]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -69,3 +70,4 @@
 [32]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/whatsthedifference.pdf
 [33]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/can't_believe_it.pdf
 [34]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018London.png
+[35]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/nothing_canbe_worse.pdf
