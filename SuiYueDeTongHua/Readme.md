@@ -35,6 +35,7 @@
 * [London][34]
 * [Keeping Quiet is A Type of Bullying!][35]
 * [Sometimes, nothing leads to the best of something][36]
+* [Next Week][37]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -73,3 +74,4 @@
 [34]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018London.png
 [35]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/bullying.pdf
 [36]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/christopher_robin.pdf
+[37]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/next_week.pdf
