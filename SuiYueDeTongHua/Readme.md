@@ -33,7 +33,6 @@
 * [London & Iceland, What's the Difference][32]
 * [Can't Believe It][33]
 * [London][34]
-* [Keeping Quiet is A Type of Bullying!][35]
 * [Sometimes, nothing leads to the best of something][36]
 
 
@@ -71,5 +70,4 @@
 [32]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/whatsthedifference.pdf
 [33]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/can't_believe_it.pdf
 [34]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018London.png
-[35]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/bullying.pdf
 [36]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/christopher_robin.pdf
