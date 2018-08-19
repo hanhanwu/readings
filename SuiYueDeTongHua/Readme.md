@@ -34,6 +34,7 @@
 * [Can't Believe It][33]
 * [London][34]
 * [Sometimes, nothing leads to the best of something][36]
+* [Steaming Eggs][37]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -71,3 +72,4 @@
 [33]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/can't_believe_it.pdf
 [34]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/2018London.png
 [36]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/christopher_robin.pdf
+[37]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/steaming_eggs.pdf
