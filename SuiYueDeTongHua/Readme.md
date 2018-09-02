@@ -37,6 +37,7 @@
 * [Steaming Eggs][37]
 * [Life (this week)][38]
 * [Grandma Died][39]
+* [Guess I Found What?!][40]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -77,3 +78,4 @@
 [37]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/steaming_eggs.pdf
 [38]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/life.pdf
 [39]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/grandma_died.pdf
+[40]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guess_found_what.pdf
