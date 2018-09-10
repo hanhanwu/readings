@@ -38,7 +38,6 @@
 * [Life (this week)][38]
 * [Grandma Died][39]
 * [Guess I Found What?!][40]
-* [Hanhan's Reading Note - Pride and Prejudice][41]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -80,4 +79,3 @@
 [38]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/life.pdf
 [39]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/grandma_died.pdf
 [40]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guess_found_what.pdf
-[41]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/pride_and_prejudice.pdf
