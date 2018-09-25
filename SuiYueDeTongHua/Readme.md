@@ -39,7 +39,6 @@
 * [Grandma Died][39]
 * [Guess I Found What?!][40]
 * [C'est La Vie][41]
-* [Not Sure Whether You Like It][42]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -82,4 +81,3 @@
 [39]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/grandma_died.pdf
 [40]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guess_found_what.pdf
 [41]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/cest_la_vie.pdf
-[42]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/not_sure.pdf
