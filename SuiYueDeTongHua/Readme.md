@@ -40,6 +40,7 @@
 * [Guess I Found What?!][40]
 * [C'est La Vie][41]
 * [外婆，走好][42]
+* [A Red Dumb Phone][43]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -83,3 +84,4 @@
 [40]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/guess_found_what.pdf
 [41]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/cest_la_vie.pdf
 [42]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/goodbye_grandma.pdf
+[43]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/red_dumb_phone.pdf
