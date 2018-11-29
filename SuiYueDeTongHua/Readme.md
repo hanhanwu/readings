@@ -43,6 +43,7 @@
 * [A Red Dumb Phone][43]
 * [This Long Weekend][44]
 * [Parents][45]
+* [Pressure][46]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -89,3 +90,4 @@
 [43]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/red_dumb_phone.pdf
 [44]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/long_weekend.pdf
 [45]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/parents.pdf
+[46]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/pressure.pdf
