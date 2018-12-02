@@ -45,6 +45,7 @@
 * [Parents][45]
 * [Pressure][46]
 * [Take A Rest][47]
+* [Instant Noodles][48]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -93,3 +94,4 @@
 [45]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/parents.pdf
 [46]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/pressure.pdf
 [47]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/take_a_rest.pdf
+[48]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/instant_noodles.pdf
