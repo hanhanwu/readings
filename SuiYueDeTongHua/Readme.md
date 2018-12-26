@@ -47,6 +47,7 @@
 * [Take A Rest][47]
 * [Instant Noodles][48]
 * [Sunday Night...][49]
+* [Christmas at Home][50]
 
 
 [1]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/preface.pdf
@@ -97,3 +98,4 @@
 [47]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/take_a_rest.pdf
 [48]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/instant_noodles.pdf
 [49]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/sunday_night.pdf
+[50]:https://github.com/hanhanwu/readings/blob/master/SuiYueDeTongHua/got_home.pdf
