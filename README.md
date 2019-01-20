@@ -9,7 +9,8 @@ FREE DATA SCIENCE EBOOK/PUBLICATIONS
 * Reading Notes for ML Model Evaluation: https://github.com/hanhanwu/readings/blob/master/Evaluation_Metrics_Reading_Notes.pdf
 * Big Data, Machine Learning with Transactional Data: https://github.com/hanhanwu/readings/blob/master/301_Kallerhoff_Machine_Learning.pdf
 * Data Science publications to follow: https://www.analyticsvidhya.com/blog/2016/12/medium-com-top-14-handles-publications-to-follow-for-data-science/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
-
+* 27 Recommended Data Science Books: https://www.analyticsvidhya.com/blog/2019/01/27-amazing-data-science-books-every-data-scientist-should-read/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+  * Some are really amazing, while the books are selling online, the authors also provided the .pdf free downloadable version, that's really kind!
 
 ***************************************************************
 
