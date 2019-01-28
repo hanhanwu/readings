@@ -145,7 +145,7 @@ COMPUTER BASED PSYCHOLOGICAL ANALYSIS
 
 ***************************************************************
 
-BANKING KNOWLEDGE
+## BANKING KNOWLEDGE
 
 * Credit Bureaus  — a company that collects information from various sources and provides consumer credit information on individual consumers for a variety of uses.
 * BNI Score - Bankruptcy Navigator Index (BNI). a number that indicates the likelihood of an individual filing for bankruptcy. It is related to the better-known credit score, but unlike credit scores, bankruptcy risk scores are not sold to consumers by any of the credit bureaus.[1] Consequentially, individuals have little or no way of knowing what their bankruptcy risk scores are or how to improve upon them. Furthermore, since there is no standardized index of measurement, consumers often have trouble contextualizing their score on a standardized scale, instead only receiving general information from a single bureau http://www.creditcards.com/credit-card-news/bankruptcy-risk-score-1270.php
@@ -160,6 +160,12 @@ Social capital has been used to explain the improved performance of diverse grou
 * Detached Housing: A single-family detached home, also called a single-detached dwelling, single-family residence (SFR) or separate house is a free-standing residential building. It is defined in opposition to a multi-family residential dwelling.
 * Bank model and Fintech Focus: https://www.linkedin.com/pulse/fintech-ecosystems-banking-business-model-james-shanahan
 
+### Digital Marketing
+* Comprehensive Guide on Digital Marketing: https://www.analyticsvidhya.com/blog/2018/12/guide-digital-marketing-analytics/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+  * It has a simple and straightforward way to describe how google ad biding system works
+  * Cookies, Pixels and Tag Containers
+    * All records a certain info about the website visitor
+  * How cookies work when you go to another website but could still see relevant ads - data management platform
 
 ****************************************
 
