@@ -159,6 +159,8 @@ Social capital has been used to explain the improved performance of diverse grou
 * Discretionary income: is the amount of an individual's income that is left for spending, investing or saving after taxes and personal necessities (such as food, shelter, and clothing) have been paid. Discretionary income includes money spent on luxury items, vacations and non-essential goods and services.
 * Detached Housing: A single-family detached home, also called a single-detached dwelling, single-family residence (SFR) or separate house is a free-standing residential building. It is defined in opposition to a multi-family residential dwelling.
 * Bank model and Fintech Focus: https://www.linkedin.com/pulse/fintech-ecosystems-banking-business-model-james-shanahan
+* Transactional Analytics Customer Life Time: https://www.datasciencecentral.com/profiles/blogs/machine-learning-for-transactional-analytics-customer-life-time
+  * The idea about defection rate for customers who are staying with the company in more years
 
 ### Digital Marketing
 * Comprehensive Guide on Digital Marketing: https://www.analyticsvidhya.com/blog/2018/12/guide-digital-marketing-analytics/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
