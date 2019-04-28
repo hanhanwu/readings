@@ -7,6 +7,8 @@ No longer want to go to kitchen, eating there and most of the time having no one
 * Cafe Funiculi Funicula: https://www.daocaorenshuwu.com/book/kafeiweilingqian/1225704.html
 ### Journals
 * Internet Banking and Commerce: http://www.icommercecentral.com/
+### Followings
+* https://medium.com/@alina.li.zhang
 
 
 ## FREE DATA SCIENCE EBOOK/PUBLICATIONS
