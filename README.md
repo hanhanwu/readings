@@ -1,8 +1,17 @@
 # readings
 
 
-FREE DATA SCIENCE EBOOK/PUBLICATIONS
+## Lunch Time Reading
+No longer want to go to kitchen, eating there and most of the time having no one to chat with...
+### Novels
+* Cafe Funiculi Funicula: https://www.daocaorenshuwu.com/book/kafeiweilingqian/1225704.html
+### Journals
+* Internet Banking and Commerce: http://www.icommercecentral.com/
 
+
+## FREE DATA SCIENCE EBOOK/PUBLICATIONS
+
+* Engineering Statistics: https://www.itl.nist.gov/div898/handbook/index.htm
 * Free O'Reilly Data ebooks: http://www.oreilly.com/data/free/
 * Data Science in Fintech and Banking: https://github.com/hanhanwu/readings/blob/master/data-science-banking-and-fintech_comments.pdf
 * Machine Learning Model Evaluation: https://github.com/hanhanwu/readings/blob/master/evaluating-machine-learning-models.pdf
