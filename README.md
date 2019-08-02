@@ -5,8 +5,9 @@
 No longer want to go to kitchen, eating there and most of the time having no one to chat with...
 ### Novels
 * Cafe Funiculi Funicula: https://www.daocaorenshuwu.com/book/kafeiweilingqian/1225704.html
-### Journals
+### Journals/Publications
 * Internet Banking and Commerce: http://www.icommercecentral.com/
+* Facebook Research Publications: https://research.fb.com/publications/
 ### Followings
 * https://medium.com/@alina.li.zhang
 
