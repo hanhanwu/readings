@@ -11,6 +11,10 @@ No longer want to go to kitchen, eating there and most of the time having no one
 ### Followings
 * https://medium.com/@alina.li.zhang
 
+## Amazing DS Thinking
+* [L1 Norm Regularization & Sparsity][1]
+  * I love the examples used in it :D, and all of a sudden, those complex concept became very easy to understand.
+
 
 ## FREE DATA SCIENCE EBOOK/PUBLICATIONS
 
@@ -200,3 +204,6 @@ MARKETING & ECONOMY
 
 * Research Checklist: https://github.com/hanhanwu/readings/blob/master/Ebook%20-%20The%20beginners%20guide%20to%20investing%20in%20ICOs.pdf
   * I think all types of marketing research should practice the checklists here
+  
+  
+[1]:https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a
