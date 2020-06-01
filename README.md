@@ -11,9 +11,23 @@ No longer want to go to kitchen, eating there and most of the time having no one
 ### Followings
 * https://medium.com/@alina.li.zhang
 
-## Amazing DS Thinking
+## Amazing Data Science Thinking
 * [L1 Norm Regularization & Sparsity][1]
   * I love the examples used in it :D, and all of a sudden, those complex concept became very easy to understand.
+* [Federated Learning][2]
+  * "Federated learning aims at training a machine learning algorithm on multiple local datasets contained in local nodes without exchanging data samples. The general principle consists in training local models on local data samples and exchanging parameters between these local models at some frequency to generate a global model."
+* [Understanding Blackbox Predictions via Influence Functions][3]
+  * To understand the predictions of a blackbox model, they "uses influence functions — a classic technique from robust statistics — to trace a model’s prediction through the learning algorithm and back to its training data, thereby identifying training points most responsible for a given prediction." 
+  * [Their github code][4]
+    * Scripts contains application code
+    * Influence folder contains the implementation of influence function
+  * Use Cases
+    * Understanding model behavior
+    * Adversarial training examples
+    * Debugging domain mismatch
+    * Fixing mislabeled examples
+    * [Their example code when using the influence function][5]
+      * [Functions implemented for use cases with the influence function]
 
 
 ## FREE DATA SCIENCE EBOOK/PUBLICATIONS
@@ -207,3 +221,8 @@ MARKETING & ECONOMY
   
   
 [1]:https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a
+[2]:https://en.wikipedia.org/wiki/Federated_learning
+[3]:https://arxiv.org/pdf/1703.04730.pdf
+[4]:https://github.com/kohpangwei/influence-release
+[5]:https://github.com/kohpangwei/influence-release/blob/master/scripts/fig1_influence_components.ipynb
+[6]:https://github.com/kohpangwei/influence-release/blob/master/influence/binaryLogisticRegressionWithLBFGS.py
