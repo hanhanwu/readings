@@ -99,6 +99,10 @@ DATA MINING/MACHINE LEARNING
     * The training data is huge and time couming (10 days training in their experiments)
     * language sequence here
     
+* Intelligent Search: https://mp.weixin.qq.com/s/oF3DZimhJeCU7nc1NKKIrw
+  * Finding Theme Communities from Database Networks: http://www.vldb.org/pvldb/vol12/p1071-chu.pdf
+    * TC-Tree for find theme community wihtin graph
+    
 
 -- Wiki
 * Processing Mining: https://en.wikipedia.org/wiki/Process_mining
