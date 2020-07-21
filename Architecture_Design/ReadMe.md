@@ -22,6 +22,10 @@
   * Besides interactive data visualization, the data is also downloadable
 * [East Coast Greenway May][9]💚
   * Type the address in east coast, it will guide you to the nearest green way. This is fun! I should have it next time when traveling to the east coast!
+  
+### Geospatial Analysis and Visualization
+* [kepler.gl][10]
+* [Geospatial Analysis using Folium][11]
 
 ### References
 * [Smart city projects 2018][6]
@@ -41,3 +45,5 @@
 [7]:https://opendatabarometer.org/country-sheets/
 [8]:https://urban.jrc.ec.europa.eu/#/en
 [9]:https://map.greenway.org/
+[10]:https://github.com/keplergl/kepler.gl
+[11]:https://www.analyticsvidhya.com/blog/2020/06/guide-geospatial-analysis-folium-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
