@@ -25,6 +25,10 @@
 
 ### References
 * [Smart city projects 2018][6]
+  * I especially like the ideas about some transportation projects, such as:
+    * Using tourists data to get insights about the city
+  * Other special ideas :D
+    * The relationship between college students, moving time, trash, complaints, pests and loud parties... never thought it's such a big deal...
 
 
 
