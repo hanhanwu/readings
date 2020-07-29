@@ -27,6 +27,13 @@
 * [kepler.gl][10]
 * [Geospatial Analysis using Folium][11]
 
+## Big Data in Smart City
+### Main Data Collection Methods
+* Simulation
+  * Might also need sensors
+* IoT
+* Gamification - Virtual interaction to gain user experience insights
+
 ### References
 * [Smart city projects 2018][6]
   * I especially like the ideas about some transportation projects, such as:
