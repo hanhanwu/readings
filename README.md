@@ -11,6 +11,7 @@ No longer want to go to kitchen, eating there and most of the time having no one
 ### Followings
 * https://medium.com/@alina.li.zhang
 
+
 ## Amazing Data Science Thinking
 * [L1 Norm Regularization & Sparsity][1]
   * I love the examples used in it :D, and all of a sudden, those complex concept became very easy to understand.
@@ -41,6 +42,9 @@ No longer want to go to kitchen, eating there and most of the time having no one
 * Data Science publications to follow: https://www.analyticsvidhya.com/blog/2016/12/medium-com-top-14-handles-publications-to-follow-for-data-science/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
 * 27 Recommended Data Science Books: https://www.analyticsvidhya.com/blog/2019/01/27-amazing-data-science-books-every-data-scientist-should-read/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
   * Some are really amazing, while the books are selling online, the authors also provided the .pdf free downloadable version, that's really kind!
+  
+## Story Telling Tips
+* 10 tips on slides: https://blog.ted.com/10-tips-for-better-slide-decks/
 
 ***************************************************************
 
