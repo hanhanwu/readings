@@ -2,6 +2,17 @@
 
 I'm learning this book [Trading Systems and Methods][1], and already started to feel excited about the new knowledge. Taking some learning notes here for my future use! 💖
 
+## Suggestions
+* None of these are the only factor for decison making.
+
+### About Noise
+* Checking the noise helps decide which market to trade and whether to enter a market quickly or wait a bit.
+  * A trend system can be more profitable when the price series has less noise, and a mean reversion strategy is better when there is more noise.
+  * To measure the noise, we can often use `efficiency ratio`
+    * `efficiency_ratio = abs(Pt - Pt-n) / sum(abs(Pi - Pi-1)), i = t-n ... t`
+      * "P" means price here, "Pi" means the price at time i
+
+
 
 ## New Feeds
 * [Bloomberg][2]
