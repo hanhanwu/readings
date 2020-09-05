@@ -20,13 +20,20 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
   * Similar to geometric mean, `a1 .. an-1` are the smallest price of each interval, `an` is the largest price of the last interval; `n` is the number of time intervals
 * `arithmetic mean > geometric mean > harmonic mean` when the distribution is not perfectly symmetric
   * "arithmetic mean" here is the weighted average with equal weight
+  
+### Distribution
+* 4 moments of distribution
+  * mean, variance, skewness, kurtosis
+    * Kurtosis measures the peakness of the distribution. For a more flatten distribution, it's negative kurtosis; for a more peaked distribution, it's positive kertosis.
+      * <b>The kurtosis of the daily returns will be better than 3 if the system is profitable.</b>
+        * The normal value of kurtosis is 3
 
 ## Suggestions
 * None of these are the only factor for decison making.
 
 ### About Noise
 * Checking the noise helps decide which market to trade and whether to enter a market quickly or wait a bit.
-  * A trend system can be more profitable when the price series has less noise, and a mean reversion strategy is better when there is more noise.
+  * <b>A trend system can be more profitable when the price series has less noise, and a mean reversion strategy is better when there is more noise.</b>
   * To measure the noise, we can often use `efficiency ratio`
     * `efficiency_ratio = abs(Pt - Pt-n) / sum(abs(Pi - Pi-1)), i = t-n ... t`
       * "P" means price here, "Pi" means the price at time i
