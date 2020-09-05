@@ -13,7 +13,7 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
 * `geometric mean = G = (a1 * a2 * .... * an)^(1/n)`, or `(ln(G) = (ln(a1) + ln(a2) + ... + ln(an))/n)`
   * `a1 .. an-1` are the smallest price of each interval, `an` is the largest price of the last interval; `n` is the number of time intervals
   * natural log here
-  * This mean helps measure the price growth
+  * This mean helps measure the price growth, it's important when using data represent precentages, ratios or rates of changes.
 * `quadratic mean = sqrt(sum(power(ai))/N)`
   * It often used to estimate errors
 * `harmonic mean = H = n/sum(1/ai)`
