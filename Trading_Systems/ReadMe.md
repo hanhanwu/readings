@@ -2,7 +2,7 @@
 
 I'm learning this book [Trading Systems and Methods][1], and already started to feel excited about the new knowledge. Taking some learning notes here for my future use! 💖
 
-## [Terminology][7]
+## [Terminology & Usage][7]
 
 
 ## Suggestions
