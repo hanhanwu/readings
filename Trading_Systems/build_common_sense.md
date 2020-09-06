@@ -1,5 +1,10 @@
 # Build Common Sense
 
+## Usage
+### Probability of a return
+* `probability of reaching objective = (objective - mean)/std`
+* For example, you have the distribution of the returns in a certain period, knowing the mean 8% and std 16%, and you want to reach 20+% return, the probability will be (20% - 8%)/16%
+
 ## Terminology
 * `equilibrium` -  the supply and the demand are balanced
 
