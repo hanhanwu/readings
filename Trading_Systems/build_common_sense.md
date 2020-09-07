@@ -1,12 +1,23 @@
 # Build Common Sense
 
 ## Usage
-### Probability of a return
+### Calculate the probability of a return
 * `probability of reaching objective = (objective - mean)/std`
 * For example, you have the distribution of the returns in a certain period, knowing the mean 8% and std 16%, and you want to reach 20+% return, the probability will be (20% - 8%)/16%
+### Usage of t-test
+* Measure how close the sample distribution is to normal distribution
+  * `t = (mean - population mean) * sqrt(sample_size)/sample_std`
+* Compare 2 periods data, to see whether there is significant change
+  * When calculating the consistency of profits & losses of a trading system, mean and std values are trading returns, sample size is using the number of trades
+* For more, check [my past notes][1]
 
 ## Terminology
 * `equilibrium` -  the supply and the demand are balanced
+* `Serial Correlation` or `autocorrealtion`, it looks for the persistence in the data
+  * Use d-test, Durbin-Watson test, it measures the changes in errors. The value of d is between 0..4 range
+    * There is no correlation when d = 2
+    * Less than 2 there us positive autocorrelation (more similarity), but when it's below 1, there is more similarity in the errors than is reasonable
+    * Above 2, the more negative autocorrelation appears in the error terms
 
 ### The law of averages
 * It means, the number of average items is extremely large that small abnormal events do not affect the balance.
@@ -35,3 +46,5 @@
 ## Common Sense
 * Wheat prices can also be viewed net of inflation or changes in US dollar
 
+
+[1]:https://github.com/hanhanwu/Hanhan_Data_Science_Practice/blob/master/Applied_Statistics/pvalue_ttest_ztest.md
