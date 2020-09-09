@@ -3,6 +3,7 @@
 I'm learning this book [Trading Systems and Methods][1], and already started to feel excited about the new knowledge. Taking some learning notes here for my future use! 💖
 
 ## [Terminology & Usage][7]
+* Having all the terminology in 1 chapter of an e-book is such a torture, but have to take notes so that later it's easier to check again.
 
 
 ## Suggestions
