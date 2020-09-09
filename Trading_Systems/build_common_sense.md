@@ -18,6 +18,14 @@
     * There is no correlation when d = 2
     * Less than 2 there us positive autocorrelation (more similarity), but when it's below 1, there is more similarity in the errors than is reasonable
     * Above 2, the more negative autocorrelation appears in the error terms
+* Calculate returns
+  * `standard return = r_t = (Equity_t - Equity_t-1)/Equity_t-1`
+  * `ln return = r_t = ln(Equity_t/Equity_t-1)`
+  * Net Asset Values (NAVs), `NAV_t = NAV_t-1 * (1 + r_t)`, it often has a starting value NAV_0
+  * Trading returns are best with 252 days, the typical number of days in a trading year in US
+  * Annualized Rate of Return (AROR)
+    * `AROR_compounded = power(E_n/E_0, 252/n) - 1`, over n days
+      * E_0 is the satrting equity or account balance; E_n is the equity at the end of n days
 
 ### The law of averages
 * It means, the number of average items is extremely large that small abnormal events do not affect the balance.
