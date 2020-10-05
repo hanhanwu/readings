@@ -50,6 +50,28 @@
     * Kurtosis measures the peakness of the distribution. For a more flatten distribution, it's negative kurtosis; for a more peaked distribution, it's positive kertosis.
       * <b>The kurtosis of the daily returns will be better than 3 if the system is profitable.</b>
         * The normal value of kurtosis is 3
+        
+### Index
+* It's used to convert markets calculated in different units into the same metric, so that they are comparable
+#### Index Categories
+* Capitalization Weighted (market-value-weighted index)
+  * `outstanding shares * price`
+  * Such as S&P 500, NASDAQ 100, the Hang Seng, the MSCI EAFE Index, the German DAX, the Japanese TOPIX
+* Price Weighted
+  * `average price of all components`
+  * Such as Dow Jones Industrials, the Nikkei 225
+* World Production Index
+  * More production is more important to the index
+  * Such as GSCI (Goldman Sachs Commodity Index), it's weighted by the production of the component commedities over the past 5 years
+* Trade Weighted Index
+  * Such as US Dollar Index
+    * It's trade weighted, a geometric average of 6 currencies: 57.6% euro; 13.6% Japanese yen; 11.9% UK pound; 9.1% Canadian dollar; 4.2% Swedish krona and 3.6% Swiss franc.
+    * The dollar index increases in value relative to the other currencies.
+* Commodity Index Market
+  * The index has specific weightetings for different commodities (such as 30.57% energy, 23.46% grains, 17.39% industrial metals, 15.29% precious metals, etc.)
+  * Such as BCI (bloomberg commodity index), DJ-UBS, CRB(Commodity Research Bureau Index), Thomson Reuters Equal Weight Continuous Commodity Index (a simple average of the daily price of the 17 components)
+* Price-Volume Index
+  * Not popular, used to reflect the strength of move. `price * volume`
 
 ## Common Sense
 * Wheat prices can also be viewed net of inflation or changes in US dollar
