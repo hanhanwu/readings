@@ -24,6 +24,27 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
 * Better to focus on data from US or Europe, other data sources can be late or less accurate
 * Having both training and testing data
 
+### Interest Rates Movememt Direction vs Indicators
+* I guess those missing conditions here means uncertain?
+#### Indicator - Interest Rates
+* `R = 1 - Rate of Inflation/Yield`
+  * R is ratio
+  * Yield is the 3 month treasury bill
+  * `R_avg` is 20-day average of R
+* `Inflation Yield Oscillator(IYO) = R - R_avg`
+* If `(R < 0.2 or IYO < 0) and Yield_t > Yield_t-3mo`, then rates increase
+* If `(R > 0.3 or IYO > 0.5) and Yield_t < Yield_t-3mo`, then rates will fall
+#### Indicator - Money Supply
+* If `(M2_m - M2_m-1) > (M2_m - M2_m-6) and Yield_t > Yield__t-11mo`, then rates will rise
+  * `M2_m` is monthly money supply
+* If `(M2_m - M2_m-1) < (M2_m - M2_m-6) and Yield_t < Yield__t-11mo`, then rates will fall
+#### Indicator - Consumer Sentiment (CS)
+* If `(CS_m > CS_m-12) and (CS_m > CS_m-11) and (Yield_t > Yield_t-4mo)`, then rates will rise
+* If `(CS_m < CS_m-12) and (CS_m < CS_m-11) and (Yield_t < Yield_t-4mo)`, then rates will fall
+#### Unemployment Claims (UC)
+* If `UC_m < UC_m-11 and UC_m > UC_m-14`, then rates will rise
+* If `UC_m > UC_m-11 and UC_m < UC_m-14`, then rates will fall
+
 ### Metrics
 #### Error Measurement
 * `sample error = 1/sqrt(N)`, N is the data size.
