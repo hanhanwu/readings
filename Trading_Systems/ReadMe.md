@@ -54,6 +54,11 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
   * It uses multiple data samples to estimate the data distribution. The value determines how the sample means differ from the actual mean. -- The uniformity of data
   * People also use all the data with size N, instead of multiple samples
 
+## Other Suggestions
+* [2 trading indicators][8]
+  * Bollinger Band Trading Strategy
+  * RSI (Relative Strength Index) Trading Strategy
+  * If using machine learning, these trading strategies can serve as features too
 
 ## New Feeds
 * [Bloomberg][2]
@@ -72,3 +77,4 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
 [5]:https://www.metastock.com/
 [6]:https://ninjatrader.com/
 [7]:https://github.com/hanhanwu/readings/blob/master/Trading_Systems/build_common_sense.md
+[8]:https://www.analyticsvidhya.com/blog/2021/01/algotrading-using-technical-indicator-and-ml-models/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
