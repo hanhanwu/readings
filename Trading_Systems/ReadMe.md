@@ -7,7 +7,10 @@ I'm learning this book [Trading Systems and Methods][1], and already started to 
 
 
 ## Suggestions
-* None of these are the only factor for decison making.
+* Forecast the returns instad of the stock price is more practical, since you want to use the model to make money
+  * Here's an example of predicting returns with basic LSTM: https://github.com/PracticalTimeSeriesAnalysis/BookRepo/blob/master/Ch14/ForecastingStocks.ipynb
+  * CW-RNN outperforms LSTM in some ts analysis: https://perma.cc/9C62-7GFK
+    * https://github.com/flandolfi/clockwork-rnn
 
 ### About Noise
 * Checking the noise helps decide which market to trade and whether to enter a market quickly or wait a bit.
