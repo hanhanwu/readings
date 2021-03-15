@@ -30,6 +30,11 @@ No longer want to go to kitchen, eating there and most of the time having no one
     * [Their example code when using the influence function][5]
       * [Functions implemented for use cases with the influence function]
 
+## Data Science Industry Proposals
+* [ActiveDeeper: A Model-based Active Data Enrichment System][7]
+  * It helps categorize business strings, such as "merchant"
+  * It's a google sheet addon usnig bayesian methods, the idea is simple, fast with easy UI
+  * It also has a formula to update the probability for local DB based on the search results from the hidden DB 
 
 ## FREE DATA SCIENCE EBOOK/PUBLICATIONS
 
@@ -234,3 +239,4 @@ MARKETING & ECONOMY
 [4]:https://github.com/kohpangwei/influence-release
 [5]:https://github.com/kohpangwei/influence-release/blob/master/scripts/fig1_influence_components.ipynb
 [6]:https://github.com/kohpangwei/influence-release/blob/master/influence/binaryLogisticRegressionWithLBFGS.py
+[7]:http://www.vldb.org/pvldb/vol13/p2885-zhao.pdf
